@@ -1108,33 +1108,1443 @@
 //	1108 damp n.  vt.
 1109 dance n.  v.
 1110 danger n.
-1111 dangerous a.危险的，不安全的
-1112 dare v.敢,胆敢
-1113 dark a.黑暗的，深(色)的;隐秘的;n.无光，黑暗
-1114 darling n.心爱的人,亲爱的
-1115 dash v./n.冲,猛冲,突进 n.破折号
-1116 data n.(datum的复数)资料，数据
-1117 database n.(databank)数据库
-1118 date n.日期,年代 v.注明…的日期 n./v.约会
-1119 daughter n.女儿
-1120 dawn n.黎明,拂晓 v.破晓;开始现出
-1121 day n.天，一昼夜;白昼，白天;时期，时代
-1122 daylight n.日光,白昼,黎明
-1123 daytime n.白天,日间
-1124 dazzle v.使惊奇,使倾斜;耀(眼) n.耀眼的光
-1125 dead a.死的;无生命的;死气沉沉的 ad.完全地
-1126 deadline n.最后期限
-1127 deadly a.致命的;势不两立的; 极度的;必定的
-1128 deaf a.聋的;不愿听的
-1129 deal v.处理;做买卖,经营;分配;对待 n.交易
-1130 dealer n.商人
-1131 dean n.(大学)院长;主持牧师; (基督教)教长
-1132 dear a.昂贵的;亲爱的;珍贵的 int.呵!哎呀!
-1133 death n.死，死亡;灭亡，毁灭，死因
-1134 debate v./n.争论,辩论
-1135 debt n.债,债务
-1136 decade n.十年
-1137 decay v./n.腐朽,腐烂;衰减,衰退
-1138 deceit n.欺骗,欺骗行为
-1139 deceive v.欺骗,蒙蔽
-1140 December n.十二月
+1111 dangerous a.
+1112 dare v.
+1113 dark a n.
+//	1114 darling n.			*
+//	1115 dash v./n.
+1116 data n.
+1117 database n.(databank)
+1118 date n. n./v.
+1119 daughter n.
+1120 dawn n. v.
+1121 day n.
+1122 daylight n.
+1123 daytime n.
+//	1124 dazzle v.  n.
+1125 dead a.  ad.
+1126 deadline n.
+1127 deadly a.
+//	1128 deaf a.
+1129 deal v. n.
+//	1130 dealer n.
+//	1131 dean n.			*
+//	1132 dear a.	
+1133 death n.
+1134 debate v./n.
+1135 debt n.
+1136 decade n.
+1137 decay v./n.
+//	1138 deceit n.			*
+1139 deceive v.
+1140 December n.
+//	1141 decent a.
+1142 decide v.
+1143 decimal a. n.
+1144 decision n.
+1145 decisive a.
+1146 deck n.
+1147 declaration n.
+1148 declare v.
+1149 decline v.  n.
+1150 decorate v.
+1151 decrease n.  v.
+//	1152 dedicate vt.		*
+1153 deduce vt.(from)
+1154 deduct vt.
+//	1155 deed n.			*
+//	1156 deem v.			*
+1157 deep a. ad.
+1158 deer n.
+1159 defeat n. v.
+1160 defence n.(defense)
+//	1161 defect n.			*
+//	1162 defend v.
+//	1163 deficiency n.		*
+//	1164 deficit n.			*
+1165 define v.
+//	1166 definite a.		*
+//	1167 definition n.		*
+//	1168 defy v.			*
+//	1169 degenerate v.  a.  n.
+1170 degree n.
+1171 delay v./n.
+//	1172 delegate n.  vt.
+1173 delete vt.
+//	1174 deliberate a.  vt.	*
+//	1175 delicate a.
+1176 delicious a.
+//	1177 delight n. v.
+1178 deliver v.
+1179 delivery n.
+1180 demand n./v.  v.
+1181 democracy n.
+1182 democratic a.
+//	1183 demonstrate v.		*
+//	1184 denial n.			*
+//	1185 denote vt.
+//	1186 denounce vt.		*
+1187 dense a.
+1188 density n.
+//	1189 dental a.			*
+//	1190 dentist n.
+1191 deny v.
+1192 depart vi.  a.
+1193 department n.
+//	1194 departure n.		*
+1195 depend v.(on)
+//	1196 dependent a.		*
+//	1197 depict v.			*
+//	1198 deposit v.  n.		*
+1199 depress v.
+1200 deprive vt.
+1201 depth n.
+//	1202 deputy n. a.
+//	1203 derive v.
+//	1204 descend v.			*
+//	1205 descendant n.		*
+//	1206 descent n.			*
+1207 describe v.
+1208 description n.
+1209 desert n. v.
+1210 deserve v.
+1211 design v.  n.
+//	1212 designate v.		*
+//	1213 desirable a.
+1214 desire v./n.
+1215 desk n.
+//	1216 desolate a.  v.	*
+//	1217 despair n.  v.		*
+//	1218 despatch n./v.(dispatch)  n. *
+//	1219 desperate a.		*
+//	1220 despise v.			*
+1221 despite prep.
+//	1222 dessert n.			*
+1223 destination n.
+//	1224 destiny n.			*
+1225 destroy v.
+1226 destruction n.
+1227 destructive a.
+1228 detach vt.
+1229 detail n.  v.
+//	1230 detain v.
+1231 detect v.
+1232 detective n.
+1233 detector n.
+//	1234 deteriorate v
+1235 determine v.
+1236 develop v.
+//	1237 deviate v.(from)	*
+1238 device n.
+1239 devil n.
+//	1240 devise vt.			*
+1241 devote v.(to)
+//	1242 dew n.
+1243 diagnose vt.
+1244 diagram n.
+//	1245 dial n.  v.		*
+//	1246 dialect n.			*
+1247 dialog n.(dialogue)
+//	1248 diameter n.
+//	1249 diamond n.
+1250 diary n.
+//	1251 dictate v.			*
+//	1252 dictation n.		*
+1253 dictionary n.
+1254 die vi.
+1255 diet n.
+1256 differ v.(from)  (with)
+1257 difference n.
+1258 different a.
+//	1259 differentiate v.
+1260 difficult a.
+1261 difficulty n.
+//	1262 diffuse v.  a.
+1263 dig v.
+1264 digest vt.  n.
+1265 digital a.  n.
+//	1266 dignity n.			*
+//	1267 dilemma n.			*
+//	1268 diligent a.		*
+//	1269 dilute vt.  a.		*
+1270 dim a.
+1271 dimension n.
+//	1272 diminish v.
+1273 dine v.
+1274 dinner n.
+//	1275 dip v./n.
+//	1276 diploma n.
+//	1277 diplomatic a.
+1278 direct a./ad.  v. 
+1279 direction n.
+1280 directly ad.
+//	1281 director n.		*
+//	1282 directory n.		*
+1283 dirt n.
+1284 dirty a.  v.
+1285 disable vt.
+1286 disappear v.
+1287 disappoint vt.
+1288 disaster n.
+//	1289 disastrous a.
+//	1290 disc n.(disk)		
+1291 discard vt.
+1292 discern v.
+//	1293 discharge v./n.	*
+1294 discipline n.
+1295 disclose v.
+//	1296 discount n. vt.
+1297 discourage v.
+//	1298 discourse n.  vi.
+1299 discover v.
+1300 discovery n.
+//	1301 discreet a.		*
+//	1302 discrepancy n.		*
+//	1303 discriminate v.    (against)*
+1304 discuss vt.
+1305 disease n.
+//	1306 disgrace n.   v.	
+//	1307 disguise n./v.		*
+1308 disgust n.  v.
+1309 dish n.
+1310 dislike n./v.
+//	1311 dismay n./v.		*
+1312 dismiss v.
+1313 disorder n.
+//	1314 disperse v.		
+1315 displace v.
+1316 display v./n.
+//	1317 disposal n.		*		
+//	1318 dispose v.(of)  (for)*
+//	1319 disposition n.		*
+1320 dispute n.   v.
+1321 disregard vt.  n.
+1322 disrupt vt.
+//	1323 dissipate v.		*
+1324 dissolve v.
+1325 distance n.
+//	1326 distant a.
+//	1327 distill vt.
+1328 distinct a.
+//	1329 distinction n.
+//	1330 distinguish v.(from)
+1331 distort v.
+//	1332 distract v.		*
+//	1333 distress n.  v.	*
+1334 distribute v.
+1335 district n.
+1336 disturb v.
+1337 disturbance n.
+1338 ditch n.
+//	1339 dive v./n.			*
+1340 diverse a.
+1341 diversion n.
+//	1342 divert vt.			*
+1343 divide v.
+//	1344 dividend n.
+//	1345 divine a.			*
+//	1346 division n.
+1347 divorce v./n.
+1348 dizzy a.
+1349 do aux.v. vt.
+1350 dock n.
+1351 doctor n.  vt.
+1352 doctorate n.
+1353 document n.
+1354 documentary a.  n.
+1355 dog n. vt.
+1356 doll n.
+1357 dollar n.
+1358 domain n.
+1359 dome n.
+1360 domestic a.
+//	1361 dominant a.
+//	1362 dominate v.
+1363 donate vt.
+1364 donkey n.
+//	1365 doom n.  v. 
+1366 door n.
+1367 doorway n.
+//	1368 dorm n.(dormitory)
+//	1369 dose n.  v.
+1370 dot n.  v.
+1371 doubt n./v.
+//	1372 dove n.			*
+1373 down ad.   prep.
+1374 downstairs ad.
+//	1375 downtown ad. n./a. 	
+1376 downward a.  ad.(also downwards)
+//	1377 doze v./n.			*
+1378 dozen n.
+//	1379 draft n.  v.		*
+1380 drag v.
+1381 dragon n.
+1382 drain n.  v.
+1383 drama n.
+1384 dramatic a.
+1385 drastic a.
+1386 draw v.  n.
+//	1387 drawback n.
+//	1388 drawer n.
+1389 drawing n.
+//	1390 dread v./n.
+1391 dream n./v.
+1392 dress n.  v.
+1393 drift v./n.
+//	1394 drill v.   n.		*
+1395 drink v.(drank,drunk)
+1396 drip v.  n.
+1397 drive v.  n.
+1398 driver n.
+1399 drop n.  v.
+//	1400 drought n.			*
+//	1401 drown v.			*
+1402 drug n.  v.
+//	1403 drum n.			*
+//	1404 drunk a.  n.
+1405 dry a.   vt.
+1406 dubious a. 
+1407 duck n.  v.
+//	1408 due a.(to)
+//	1409 dull a.
+//	1410 dumb a.
+//	1411 dump v.  n.
+1412 duplicate n.  v. a.
+//	1413 durable a.			*
+//	1414 duration n.		*
+1415 during prep.
+//	1416 dusk n.
+//	1417 dust n.  v.		*
+1418 duty n.
+//	1419 dwarf n.  vt.		*
+//	1420 dwell v.
+//	1421 dwelling n.
+//	1422 dye n.  v.
+1423 dynamic a.
+1424 dynasty n.
+1425 each a./pron.
+1426 eager a.(for)
+1427 eagle n.
+1428 ear n.
+1429 early a.  ad.
+1430 earn v.
+//	1431 earnest a.  n.		*
+1432 earth n.
+1433 earthquake n.
+1434 ease v.  n.
+1435 east n.
+1436 Easter n.
+1437 eastern a.
+1438 easy a.
+1439 eat vt.  vi.
+//	1440 ebb vi.  n.
+1441 eccentric a.  n.
+//	1442 echo v./n.			*
+1443 eclipse n.
+1444 ecology n.
+1445 economic a.
+1446 economical a.
+1447 economics n.
+1448 economy n.
+1449 edge n.  v.
+1450 edible a.
+1451 edit v.
+1452 edition n.
+1453 editor n.
+//	1454 editorial n.   a.	*
+1455 educate v.
+1456 education n.
+1457 effect n.  vt.
+1458 effective a.
+//	1459 efficiency n.
+//	1460 efficient a.
+//	1461 effort n.
+1462 egg n.
+//	1463 ego n.
+1464 eight num.  pron.
+1465 eighteen num.
+1466 eighty num./a.  pron.
+1467 either ad.   pron. 
+//	1468 eject v.
+//	1469 elaborate v./a.	*
+//	1470 elapse vi.			*
+//	1471 elastic a.  n.		*
+1472 elbow n.   vt.
+1473 elder a.  n.
+1474 elderly a.  n.[the～]
+1475 elect v.
+1476 electric a.
+1477 electrical a.
+1478 electrician n.
+1479 electricity n.
+1480 electron n.
+1481 electronic a.
+//	1482 elegant a.
+1483 element n.
+1484 elementary a.
+1485 elephant n.
+1486 elevate vt.
+1487 elevator n.
+1488 eleven  num.   pron./a.
+//	1489 eligible a.		*
+//	1490 eliminate vt.		*
+//	1491 elite n.
+//	1492 eloquent a.		*
+1493 else ad.
+1494 elsewhere ad.
+1495 e-mail n.(electronic mail)
+//	1496 embark v.			*
+1497 embarrass vt.
+//	1498 embassy n.
+//	1499 embed vt.			*
+
+//	1501 embody vt.
+1502 embrace v.
+1503 emerge vt.
+1504 emergency n.
+//	1505 emigrate v.  (to,from)
+//	1506 eminent a.			*
+//	1507 emit vt.			*
+1508 emotion n.
+1509 emperor n.
+1510 emphasis n.
+1511 emphasize v.(emphasise)
+1512 empire n.
+1513 empirical a.
+1514 employ n./v.
+1515 employee n.
+1516 employer n.
+1517 employment n.
+1518 empty a.  v
+//	1519 enable v.
+1520 enclose v.
+1521 enclosure n.
+//	1522 encounter n./v.	*
+1523 encourage v.
+1524 encyclopedia n.(encyclopaedia)
+1525 end n.  v.
+//	1526 endeavor v./n.(endeavour)	*
+1527 ending n.
+//	1528 endow vt.  (with)	*
+1529 endurance n.
+1530 endure v.
+1531 enemy n.
+1532 energetic a.
+1533 energy n.
+1534 enforce v.
+//	1535 engage v.(in)
+1536 engagement n.
+1537 engine n.
+1538 engineer n.
+1539 engineering n.
+1540 enhance v.
+1541 enjoy vt.
+//	1542 enlarge vt.
+//	1543 enlighten v.		*
+1544 enormous a.
+1545 enough a.(for)  n.
+1546 enquire v.(inquire)
+1547 enrich v.
+//	1548 enroll v.(enrol)
+1549 ensure v.
+//	1550 entail vt.			*
+1551 enter vt.  vi.
+1552 enterprise n.
+//	1553 entertain v.
+//	1554 entertainment n.
+//	1555 enthusiasm n. (for)*
+//	1556 enthusiastic a.	*
+//	1557 entire a.			*
+//	1558 entitle v. 		*
+1559 entity n.
+1560 entrance n.
+1561 entrepreneur n.
+1562 entry n.
+//	1563 envelope n.		*
+1564 environment n.
+//	1565 envisage v.		*
+1566 envy v./n.
+1567 epidemic a.  n.
+//	1568 episode n.			*
+1569 epoch n.
+1570 equal a.  n.  v.
+1571 equality n.
+//	1572 equation n.
+//	1573 equator n.			*
+1574 equip v.(with)
+1575 equipment n.
+//	1576 equivalent a.(to)  n.	*
+//	1577 era n.
+//	1578 erase v.			*
+//	1579 erect v.  a.		*
+//	1580 erosion n.
+//	1581 erroneous a.
+1582 error n.
+1583 erupt v.
+//	1584 escalate v.		*
+1585 escape n.  v.
+//	1586 escort vt.  n.		*
+1587 especially ad.
+1588 essay n.
+1589 essence n.
+1590 essential a.  n.
+1591 establish v.
+1592 establishment n.
+1593 estate n.
+1594 esteem n.  vt.
+1595 estimate v./n.
+//	1596 eternal n.			*
+//	1597 ethnic a.
+//	1598 evacuate vt.		*
+1599 evade vt.
+1600 evaluate v.
+//	1601 evaporate v.		*
+//	1602 eve n.
+1603 even ad.  a.
+1604 evening n.
+1605 event n.
+1606 eventually ad.
+1607 ever ad.
+1608 every a.
+1609 everybody pron.(everyone)
+1610 everyday adj
+1611 everyone pron.(everybody)
+1612 everything pron.
+1613 everywhere ad.
+1614 evidence n.
+1615 evident a.
+1616 evil a.  n.
+//	1617 evoke vt.			*
+//	1618 evolution n.		*
+//	1619 evolve v.			*
+1620 exact a.
+1621 exaggerate v.
+1622 exam n.(examination)
+1623 examine v.
+1624 example n.
+//	1625 exceed v.
+//	1626 exceedingly ad.
+//	1627 excel vi.  vt.		*
+//	1628 excellent a.		*
+1629 except prep.  v.
+1630 exception n.
+1631 exceptional a.
+//	1632 excerpt n./vt.		*
+//	1633 excess a.  n.		*
+//	1634 excessive a.		*
+1635 exchange v./n.(for)
+1636 excite v.
+1637 excitement n.
+1638 exciting a.
+//	1639 exclaim v.
+//	1640 exclude v.			*
+//	1641 exclusive a.		*
+//	1642 excursion n.		*
+//	1643 excuse v.  n.		*
+1644 execute v.
+//	1645 executive n.  a.
+//	1646 exemplify v.		*
+//	1647 exempt a.  v.  n.	*
+1648 exercise n.  v.
+//	1649 exert v.			*
+//	1650 exhaust v.  n.
+1651 exhibit v.  n.
+1652 exhibition n.
+//	1653 exile n.  vt.		*
+1654 exist v.
+1655 existence n.
+1656 exit n.
+//	1657 exotic a.			*
+1658 expand v.
+1659 expansion n.
+1660 expect v.
+1661 expectation n.
+//	1662 expedition n.		*
+//	1663 expel v.			*
+//	1664 expend v.			*
+//	1665 expenditure n.		*
+1666 expense n.
+1667 expensive a.
+1668 experience n./vt.
+//	1669 experiment n.  v.(on)
+//	1670 experimental a.	*
+//	1671 expert n.  a.		*
+//	1672 expertise n.		*
+//	1673 expire v.			*
+1674 explain v.
+//	1675 explanation n.		*
+//	1676 explicit a.		*
+//	1677 explode v.			*
+//	1678 exploit v.			*
+1679 explore v.
+//	1680 explosion n.
+1681 explosive a.  n.
+//	1682 export v./n. n.
+1683 expose v.(to)
+//	1684 exposure n.
+1685 express v.   a.  n.
+1686 expression n.
+//	1687 exquisite a.
+1688 extend v.
+1689 extension n.
+//	1690 extensive a.		*
+//	1691 extent n.			*
+1692 exterior a.  n.
+1693 external a.
+1694 extinct a.
+//	1695 extinguish v.		*
+1696 extra a.  n.
+//	1697 extract v./n.  n.	*
+//	1698 extraordinary a.		
+//	1699 extravagant a.		*
+1700 extreme a.  n.
+1701 eye n.  vt.
+1702 eyebrow n.
+//	1703 eyesight n.
+//	1704 fable n.			*
+//	1705 fabric n.
+//	1706 fabricate v.		*
+//	1707 fabulous a.		*
+1708 face n.  v.
+//	1709 facilitate v.
+1710 facility n.
+1711 fact n.
+1712 factor n.
+1713 factory n.
+//	1714 faculty n.
+1715 fade v.  n.
+1716 fail v.
+1717 failure n.
+1718 faint a.  n./v.
+1719 fair a. 
+1720 fairly ad.
+//	1721 fairy a.   n.	
+1722 faith n.
+1723 faithful a.
+1724 fake n.  a.  v.
+1725 fall v.  n.
+1726 false a.
+//	1727 fame n.  vt		*
+1728 familiar a.  n.
+1729 family n.
+//	1730 famine n.			*
+1731 famous a.
+1732 fan n.  v.
+//	1733 fancy n.  v.		*
+//	1734 fantastic a.(fantastical)
+//	1735 fantasy n.			
+1736 far a./ad.  ad
+//	1737 fare n.  v.
+//	1738 farewell int.  n.
+1739 farm n.  v.
+1740 farmer n.
+1741 farther ad.  a.
+1742 fascinate v.
+1743 fashion n.
+1744 fashionable a.
+1745 fast a.  ad.
+1746 fasten v.
+1747 fat a.  n.
+1748 fatal a.
+1749 fate n.
+1750 father n.
+//	1751 fatigue n./v.		*
+1752 fault n.
+//	1753 faulty a.
+1754 favor n.(favour) v.
+1755 favorable a.(favourable)
+1756 favorite n.(favourite)  a.
+//	1757 fax n./v.
+1758 fear n. vt.
+1759 fearful a.
+//	1760 feasible a.		*
+//	1761 feast n.			*
+//	1762 feat n.			*
+//	1763 feather n.			*
+1764 feature n.   v.
+1765 February n.
+1766 federal a.
+1767 federation n.
+1768 fee n.
+//	1769 feeble a.
+1770 feed v.(on,with)
+1771 feedback n.
+1772 feel v.  vi.
+1773 feeling n.
+//	1774 fell v.  a.		*
+1775 fellow n.  a.
+//	1776 fellowship n.
+1777 female n.  a.
+1778 feminine a.
+//	1779 fence n. v. 		*
+//	1780 ferry n. v.
+//	1781 fertile a.	
+//	1782 fertilizer n.(fertiliser)
+1783 festival n.  a.
+//	1784 fetch v. n.		*
+//	1785 feudal a.			*
+//	1786 fever n.
+//	1787 few a.				*
+1788 fiber n.(fibre)
+1789 fiction n.
+1790 field n.
+1791 fierce a.
+1792 fifteen num.  pron./a.
+1793 fifty num.
+1794 fight v./n.
+1795 figure n. v.
+1796 file n.  v.
+1797 fill v.(with)
+1798 film n.  vt.
+1799 filter n.
+1800 final a.  n.
+1801 finally ad.
+1802 finance n.  v.
+1803 financial a.
+1804 find v.(found,found)
+1805 finding n.
+1806 fine a.  v./n.
+1807 finger n.
+1808 finish n.  v.
+//	1809 finite a.			*
+1810 fire n.  vi.
+1811 fireman n.
+1812 fireplace n.
+1813 firm a.  n.
+1814 first a./ad.  n.
+1815 fish n.(pl.fish(es))   v.
+1816 fisherman n.
+//	1817 fist n.  vt.
+//	1818 fit a.  v./a.n.
+//	1819 fitting a.  n 		*
+1820 five num.  pron./a.
+1821 fix v.  n.
+//	1822 fixture n.			*
+1823 flag n.
+1824 flame n.  v.
+1825 flap n.  n./v.
+//	1826 flare v./n.
+1827 flash n./a.  v.
+//	1828 flat a.  n.		*
+//	1829 flatter vt.		*
+//	1830 flavor n.(flavour)  v.	*
+1831 flaw n.  v.
+//	1832 flee v.			
+//	1833 fleet n.			
+//	1834 flesh n.
+1835 flexible a.
+1836 flight n.
+1837 fling v.
+1838 float n.  v.
+//	1839 flock n.  v.		*
+1840 flood n.  v.
+1841 floor n.
+1842 flour n.
+//	1843 flourish n./v.
+//	1844 flow v.  n.		*
+1845 flower n.  vi.
+//	1846 flu n.(influenza)	*
+//	1847 fluctuate v.		*
+//	1848 fluent a.
+//	1849 fluid a.  n.
+//	1850 flush n.  v.  		*
+1951 fly n.  v
+//	1952 foam v./n.			*
+1953 focus n.  v.(on)
+1954 fog n.  v.
+1955 fold v.  n.
+1956 folk n.  a.
+1957 follow v.
+//	1958 following a.		*
+1959 fond a.(of)
+1960 food n.
+1961 fool n.  vt.
+1962 foolish a.
+1963 foot n.(pl.feet)
+1964 football n.
+1965 footstep n.
+1966 for prep.  conj.
+1967 forbid v.
+1968 force n.(pl)  v.
+//	1969 fore ad.   a.  n.	*
+1970 forecast v./n.
+1971 forehead n.
+1972 foreign a.
+1973 foreigner n.
+//	1974 foremost a.   ad.	*
+1975 foresee v.
+//	1976 forest n.
+1977 forever adv.(for ever)
+1978 forge v.   n.
+1979 forget v.
+1980 forgive v.
+//	1981 fork n.			*
+//	1982 form n.  v.
+1983 formal a.
+//	1984 format n.  vt.		*
+//	1985 formation n.		*
+1986 former a.  pron.
+//	1987 formidable a.		*
+1988 formula n.(pl.formulae)
+1989 formulate v.
+//	1990 forth ad.			*
+1991 forthcoming a. n.
+1992 fortnight n.
+1993 fortunate a.
+1994 fortune n.
+1995 forty num./a.
+//	1996 forum n.			*
+1997 forward ad.(also forwards)   v.
+1998 fossil n.
+//	1999 foster vt.  a.  n.
+2000 foul a.  v.  n.
+//	2001 found vt.			*
+2002 foundation n.
+//	2003 fountain n.		
+2004 four num.
+2005 fourteen num.
+2006 fox n.
+2007 fraction n.
+//	2008 fracture n.  v.	*
+//	2009 fragile a. 
+2010 fragment n.
+//	2011 fragrant a.
+2012 frame n.  v.
+2013 framework n.
+//	2014 frank a.			*
+//	2015 fraud n.
+2016 free a.  vt.
+2017 freedom n.
+2018 freeze v.
+//	2019 freight n.
+2020 frequency n.
+2021 frequent a.
+2022 fresh a.
+//	2023 friction n.		*
+2024 Friday n.
+2025 fridge n.(refrigerator的略语)
+2026 friend n.
+2027 friendly a.
+2028 friendship n.
+2029 fright n.
+2030 frighten v.
+//	2031 fringe n.  vt.		*
+2032 frog n.
+2033 from prep.
+2034 front a.  n.  v.
+//	2035 frontier n.
+//	2036 frost n.			*
+2037 frown v.
+2038 fruit n.
+2039 fruitful a.
+//	2040 frustrate vt.		*
+2041 fry v.
+2042 fuel n.  vt.
+2043 fulfill v.(fulfil)
+2044 full a.(of)   a./ad.
+//	2045 fume n.			*
+//	2046 fun n.				*
+2047 function n.  v.
+2048 fund n.
+2049 fundamental a.
+2050 funeral n
+2051 funny a.
+2052 fur n.
+//	2053 furious a.			*
+//	2054 furnace n.			*
+//	2055 furnish v.			*
+//	2056 furniture n.
+//	2057 further ad./a.  v.
+//	2058 furthermore ad.	
+//	2059 fuse n.  v.		*
+//	2060 fuss n./v.			*
+//	2061 futile a.			*
+2062 future n.  a.
+2063 gain v.  n.
+2064 galaxy n.  (the Galaxy)
+2065 gallery n.
+2066 gallon n.
+2067 gallop v./n.
+//	2068 gamble n./v.		*
+2069 game n.   vi.
+2070 gang n.
+2071 gaol n.(jail)  vt.
+2072 gap n.
+2073 garage n.
+2074 garbage n.
+2075 garden n.
+2076 garlic n.
+//	2077 garment n.
+2078 gas n. vt. 
+2079 gasoline n.(gasolene)
+2080 gasp n.  v.
+2081 gate n.
+2082 gather v.
+//	2083 gauge n.  v.		*
+//	2084 gay a.   n.
+//	2085 gaze v./n.
+//	2086 gear n.  v.(to)
+2087 gender n.
+2088 gene n.
+//	2089 general a. n.
+//	2090 generalize v.(generalise)
+2091 generate vt.
+2092 generation n.
+//	2093 generator n.
+2094 generous a.
+//	2095 genetic a.  n.[-s]	*
+//	2096 genius n.			*
+2097 gentle a.
+2098 gentleman n.
+2099 gently ad.
+//	2100 genuine a.			*
+2101 geography n.
+2102 geology n.
+//	2103 geometry n.
+//	2104 germ n.
+2105 gesture n.  v.
+2106 get v.
+2107 ghost n.
+2108 giant n.  a.
+2109 gift n.
+//	2110 gigantic a.
+2111 giggle vi./n.  vt.
+2112 girl n.
+2113 give v.
+//	2114 glad a.
+//	2115 glamor n.(glamour)  vt.
+2116 glance v.(at,over)  n.
+2117 glare vi.  n.
+2118 glass n.
+//	2119 glide n./v.		*
+2120 glimpse n./v.
+//	2121 glitter n.  v.
+2122 global a.
+2123 globe n.
+2124 gloomy a.
+2125 glorious a.
+2126 glory n.
+2127 glove n.
+2128 glow v.  n.
+2129 glue n.  v.
+2130 go v.   n.
+2131 goal n.
+//	2132 goat n.
+2133 god n.
+2134 gold n.  a.
+2135 golden a.
+//	2136 golf n.
+2137 good a.  n.
+2138 goodby int.(goodbye)
+2139 goodness n.  int.
+2140 goods n.(pl)
+2141 goose n.(pl.geese)
+//	2142 gorgeous a.		
+//	2143 gossip n./v.		*
+//	2144 govern v.
+2145 government n.
+2146 governor n.
+//	2147 gown n.
+//	2148 grab v./n.(at)
+//	2149 grace n.
+//	2150 graceful a.
+//	2151 gracious a.		*
+2152 grade n. v.
+2153 gradual a.
+2154 graduate n.  v.
+2155 grain n.
+2156 gramme n.(gram)
+2157 grammar n.
+//	2158 grand a 			*
+2159 grandmother n.
+//	2160 grant v. n.
+//	2161 grape n.
+2162 graph n.
+2163 graphic a.
+//	2164 grasp v./n.
+//	2165 grass n.
+2166 grateful a.(to,for)
+2167 gratitude n.
+//	2168 grave n.  a. 		*
+2169 gravity n.
+//	2170 graze vi.  vt.  .n.*
+//	2171 grease n.  v. 
+2172 great a.
+2173 greedy a.
+2174 green a.  n.
+2175 greenhouse n.
+2176 greet v.
+2177 greeting n
+//	2178 grey n./a.(gray)
+//	2179 grief n.			*
+//	2180 grieve v.
+//	2181 grim a.			*
+//	2182 grin n./vi.		*
+//	2183 grind v.			*
+//	2184 grip v./n.
+//	2185 groan v./n.		*
+//	2186 grocer n.			*
+//	2187 grope n./v.		*
+//	2188 gross a.  n.		*
+2189 ground n.
+2190 group n.  v.
+2191 grow v.
+//	2192 grown-up a.  n.
+2193 growth n.
+2194 guarantee n.  v.
+2195 guard v./n.  n.
+2196 guess v./n. 
+2197 guest n.
+2198 guidance n.
+2199 guide n.  v.
+2200 guideline n.
+2201 guilt n.
+2202 guilty a.(of)
+2203 guitar n.  vi.
+//	2204 gulf n.			*
+//	2205 gum n.				
+2206 gun n.
+2207 gut n.[pl.] a. vt.
+2208 guy n.
+//	2209 gymnasium n.(gym)
+2210 habit n.
+2211 habitat n.
+//	2212 hail v.  n.
+2213 hair n.
+2214 half n.  a.  ad.
+2215 hall n.
+//	2216 halt n.  v.		
+//	2217 ham n.
+//	2218 hamburger n.
+2219 hammer n.  v.
+//	2220 hamper v.			*
+2221 hand n.  v.
+2222 handbook n.
+//	2223 handful n.			*
+//	2224 handicap v.  n.	*
+//	2225 handkerchief n.
+2226 handle n.  v.
+2227 handsome a.
+2228 handwriting n.
+//	2229 handy a.			*
+2230 hang v.
+2231 happen v.
+2232 happy a.
+//	2233 harassment n.		*
+2234 harbor n.(harbour)  v.
+2235 hard a.
+//	2236 harden v.
+2237 hardly ad.
+//	2238 hardship n.
+2239 hardware n.
+2240 harm n./v.
+//	2241 harmony n.
+//	2242 harness v.  n.		*
+//	2243 harsh a.			*
+2244 harvest n.  v.
+2245 haste n.  v.
+2246 hasty a.
+2247 hat n.
+//	2248 hatch v.  n.
+2249 hate v.  n.
+//	2250 hatred n.
+//	2251 haul v.			*
+2252 have v.
+//	2253 hawk n.
+//	2254 hay n.
+//	2255 hazard n.  v.		*
+2256 he pron.
+2257 head n.  v.
+2258 headache n.
+//	2259 heading n.
+2260 headline n.
+2261 headmaster n.
+2262 headquarters n.
+//	2263 heal v.
+2264 health n.
+2265 healthy a.
+2266 heap n.  v.(up)
+2267 hear v. 
+2268 hearing n.
+2269 heart n.
+2270 heat n.  v.
+//	2271 heave v.  n.
+2272 heaven n.
+2273 heavy a.
+2274 hedge n.  v.
+2275 heel n.
+2276 height n.
+2277 heighten v.
+//	2278 heir n.
+2279 helicopter n.
+2280 hell n.
+2281 hello int.
+//	2282 helmet n.
+2283 help v.  n.
+2284 helpful a.(to)
+//	2285 hemisphere n.		*
+//	2286 hen n.				*
+2287 hence ad.
+//	2288 henceforth ad.
+2289 her pron.
+2290 herb n.
+2291 herd n.   v.
+2292 here ad.
+2293 heritage n.
+2294 hero n.
+2295 heroic a.
+//	2296 heroin n.
+2297 heroine n.
+2298 hers pron.
+2299 herself pron.
+2300 hesitate v.
+2301 hi interj.
+2302 hide v. n.
+2303 hierarchy n.
+2304 high a.   ad.
+2305 highland n. 
+//	2306 highlight v.  n.	*
+//	2307 highly ad.
+2308 highway n.
+2309 hijack v.
+2310 hike n. vi.
+//	2311 hill n.
+2312 him pron.
+2313 himself pron.
+2314 hinder v.(from)  a
+//	2315 hinge n.  vi.		*
+//	2316 hint n.  v.
+//	2317 hip n.
+2318 hire n./v.
+2319 his pron.
+2320 historian n.
+2321 historic a.
+2322 historical a.
+2323 history n.
+2324 hit v.   n.
+//	2325 hitherto ad.		*
+2326 hobby n.
+//	2327 hoist v.			*
+2328 hold v.  n.
+2329 holder n.
+2330 hole n.
+2331 holiday n.
+//	2332 hollow a.  v.
+2333 holy a.
+2334 home ad.   n.  a.
+2335 homework n.
+2336 homogeneous a.
+2337 honest a.
+2338 honey n.
+2339 honor n.(honour)   v. 
+2340 honorable a.(honourable)
+2341 hook n.  v.
+//	2342 hop v.  n.
+2343 hope n.  v.
+2344 hopeful a.
+2345 horizon n.
+2346 horizontal a.
+2347 horn n.
+2348 horrible a.
+2349 horror n.
+2350 horse n.  v.
+2401 horsepower n.
+//	2402 hose n.   v.
+2403 hospital n.
+//	2404 hospitality n.		
+2405 host n.
+//	2406 hostage n.			*	
+//	2407 hostess n.
+//	2408 hostile a.			*
+2409 hot a.
+2410 hotel n.
+2411 hound n.  vt.
+2412 hour n.
+2413 house n.  v.
+2414 household n.  a. 
+2415 housewife n.
+2416 housework n.
+//	2417 housing n.			*
+2418 hover vi.
+2419 how ad..
+2420 however ad.  conj.
+//	2421 howl n.  vi.		*
+//	2422 huddle n./v.  v.	*
+2423 hug v./n.
+2424 huge a.
+//	2425 hum v.  n.			*
+2426 human a.  n.
+2427 humanity n.
+//	2428 humble a.   v.	
+2429 humid a.
+2430 humidity n.
+//	2431 humiliate v.
+2432 humor n.(humour)
+2433 humorous a.
+2434 hundred num.   a.
+2435 hunger n./v.
+2436 hungry a.
+2437 hunt v./n.  (for)
+//	2438 hurl vt.			*
+//	2439 hurricane n.
+2440 hurry vi.   vt.  n.
+2441 hurt n.   v.
+2442 husband n.
+//	2443 hut n.
+//	2444 hydrogen n.
+//	2445 hypocrisy n.		*
+//	2446 hypothesis n.		*
+//	2447 hysterical a.		*
+2448 I pron.
+2449 ice n.   vt.
+2450 ice-cream n.
+2451 impossible a.
+2452 impress v.(on)
+2453 impression n.
+2454 impressive a.
+2455 improve v.
+2456 improvement n.
+//	2457 impulse v.   n.	*
+2458 in prep.  ad.
+2459 incentive n.
+2460 inch n.
+//	2461 incidence n.
+2462 incident n.
+//	2463 incidentally ad.	*
+2464 incline v.   n.
+2465 include v.
+//	2466 inclusive a.(of)	*
+2467 income n.
+2468 incorporate v.  a.
+2469 increase v./n.
+2470 increasingly ad.
+//	2471 incredible a.		*
+2472 incur v
+2473 indeed ad.
+2474 independence n.
+2475 independent a.(of)
+2476 index n.(pl.indexes,indices)  v.
+//	2477 indicate v.
+//	2478 indication n.
+//	2479 indicative a.(of)		
+//	2480 indifferent a.
+//	2481 indignant a.		*
+//	2482 indignation n.		*
+2483 indispensable a.(to,for)
+2484 individual a.   n.
+2485 indoor a.
+//	2486 induce v.			*
+//	2487 indulge v.			*
+2488 industrial a.
+2489 industrialize v.(industrialise)
+2490 industry n.
+//	2491 inertia n.			
+2492 inevitable a.
+//	2493 infant n.
+2494 infect vt.					
+2495 infectious a.
+2496 infer v.	
+//	2497 inference n.		*
+//	2498 inferior a.   n.	*
+//	2499 infinite a.  n.	*
+2500 inflation n.
+2501 influence n.(on)   v.
+2502 influential a.
+2503 inform v.(of,about)
+2504 information n.
+2505 infrared a./n.
+2506 infrastructure n.
+//	2507 ingenious a.		*
+//	2508 ingredient n.		*
+//	2509 inhabit vt.
+2510 inhabitant n.
+//	2511 inhale v.			*
+2512 inherent a.
+//	2513 inherit vt.
+//	2514 inhibit vt.		*
+//	2515 initial a.   n.
+//	2516 initiate vt.
+//	2517 initiative a.   n.
+2518 inject vt.
+2519 injure v.
+2520 injury n.
+2521 ink n.
+//	2522 inland a./ad.
+//	2523 inlet n.
+2524 inn n.
+2525 inner a.
+//	2526 innocent a.(of)
+2527 innovation n.
+2528 innumerable a.
+2529 input n./v.
+2530 inquiry n.(enquiry)
+2531 insect n.
+2532 insert v.  n.
+//	2533 inside a.  ad.  n.  prep.	*
+//	2534 insight n.			*
+2535 insist vi.(on)
+//	2536 inspect vt.
+2537 inspiration n.
+2538 inspire vt.
+2539 install vt.(instal)
+2540 installation n.
+//	2541 installment n.(instalment)
+2542 instance n.
+//	2543 instant a.   n.
+//	2544 instantaneous a.	*
+2545 instead ad.
+//	2546 instinct n.
+2547 institute n.   v.
+2548 institution n.
+2549 instruct v.
+2550 instruction n.
+2551 instrument n.
+2552 instrumental a.
+2553 insulate vt.
+2554 insult vt./n.
+2555 insurance n.
+2556 insure vt.
+//	2557 intact a.
+//	2558 integral a.		*
+//	2559 integrate v.(into,with)	*
+//	2560 integrity n.		*
+2561 intellectual n.   a.
+2562 intelligence n.
+2563 intelligent a.
+//	2564 intelligible a.
+//	2565 intend vt.			*
+//	2566 intense a.			*
+//	2567 intensity n.		*
+//	2568 intensive a.		*
+2569 intention n.
+//	2570 interact v.		*
+//	2571 intercourse n.		*
+2572 interest n.(in)  v.(in)
+2573 interesting a.
+2574 interface n.  v.
+//	2575 interfere v.(in)  (with)	*
+//	2576 interference n.(in)  (with)*
+//	2577 interim a.  n.		*
+//	2578 interior a.  n.	*
+//	2579 intermediate a.   n.		*
+//	2580 intermittent a.	*
+2581 internal a.
+2582 international a.
+2583 internet n.[the～]
+2584 interpret vt.
+2585 interrupt v.
+//	2586 intersection n.	*
+2587 interval n.
+//	2588 intervene v.(in)
+2589 interview v./n.
+//	2590 intimate a.   n.	*
+//	2591 intimidate vt.		*
+2592 into prep.
+//	2593 intricate a.		*
+//	2594 intrigue n.  v.	*
+//	2595 intrinsic a.		*
+2596 introduce vt.
+2597 introduction n.(to)
+//	2598 intrude vi.  vt.
+//	2599 intuition n.		*
+//	2600 invade vt.			*
+//	2601 invalid n.  a.		*
+//	2602 invaluable a.		*
+//	2603 invariably ad.		*
+//	2604 invasion n.		*
+//	2605 invent v.
+//	2606 invention n.
+//	2607 inventory n.
+2608 inverse a.   n.  v.
+//	2609 invert v.
+2610 invest vt.
+//	2611 investigate v.		
+2612 investment n.
+2613 invisible a.
+//	2614 invitation n.		*
+//	2615 invite vt.
+2616 involve v.
+2617 inward ad.   a.
+2618 iron n.  v.
+//	2619 irony n.
+//	2620 irrespective a.	*
+2621 irrigate vt.   vi.
+//	2622 irritate vt.		*
+2623 island n.
+//	2624 isle n.
+2625 isolate vt.
+2626 issue n.   vt.
+2627 it pron.
+2628 item n.
+2629 its pron.
+2630 itself pron.
+2631 jacket n.
+2632 jam n.   v.
+2633 January n.
+//	2634 jar n.
+//	2635 jargon n.			*
+//	2636 jaw n.
+//	2637 jazz n.
+2638 jealous a.(of)
+2639 jeans n.  (又称blue jeans, dungarees等)
+//	2640 jet n.   v.
+2641 jewel n.
+2642 jewelry n.(jewllery)
+2643 job n.
+//	2644 jog v.
+2645 join v.
+//	2646 joint n.   a.
+2647 joke n.   v.
+//	2648 jolly a.
+2649 journal n.
+2650 journalist n.
+//	2651 journey n.  v.		*
+//	2652 joy n.
+2653 judge n.  vt.
+2654 judgement n.(judgment)
+//	2655 judicial a.		*
+//	2656 jug n.				*
+2657 juice n.
+2658 July n.
+2659 jump v./n.
+//	2660 junction n.		*
+//	2661 June n.
+//	2662 jungle n.
+//	2663 junior a./n.		*
+//	2664 junk n.			*
+//	2665 jury n.
+2666 just ad.   a.
+2667 justice n.
+//	2668 justify v. 		*
+//	2669 juvenile n.  a.	*
+2670 keen a.
+2671 keep v.保持,保存,遵守,经营,看守,拘留,维持
+2672 kettle n.水壶
+2673 key n.钥匙;答案;关键;键 a.主要的，关键的
+2674 keyboard n.键盘 vt.用键盘输入(信息)
+2675 kick n./v.踢
+2676 kid n.小孩,儿童 v.戏弄,取笑
+2677 kidnap vt.诱拐;绑架，劫持
+2678 kidney n.肾,肾脏
+2679 kill vt.杀死，消灭;破坏，毁灭;消磨(时间)
+2680 kilo n.(kilogram/kilogramme)千克
+2681 kilometre n.(kilometer) 公里，千米(略作km)
+2682 kin n.家族,亲属,血缘关系 a.亲属关系的,同类的
+2683 kind a.仁慈的，友好的，亲切的，和蔼的 n.种类
+2684 kindergarten n.幼儿园
+2685 kindness n.仁慈,亲切;好意;友好行为
+2686 king n.君主，国王
+2687 kingdom n.王国,领域
+2688 kiss n./v.吻,接吻
+2689 kit n.成套工具,用具包,工具箱
+2690 kitchen n.厨房
+2691 kite n.风筝
+2692 knee n.膝,膝盖
+2693 kneel v.跪,下跪
+2694 knife n.刀,餐刀 v.用刀切,用匕首刺
+2695 knit v.编织,编结;接合,粘合
+2696 knob n.门把,(球形)把手,旋纽
+2697 knock v.敲,敲打,碰撞 n.敲,击
+2698 knot n.(绳)结;(树)节;节(=海里/小时) v.打结
+2699 know vt.知道，了解;认识;识别 vi.知道，了解
+2700 knowledge n.知识,学识;知道,了解
