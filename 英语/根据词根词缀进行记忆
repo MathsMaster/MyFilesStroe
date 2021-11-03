@@ -4558,33 +4558,93 @@
 4758 summer n.   a.
 //	4759 summit n.
 //	4760 summon v.			*
-4761 sun n.太阳;恒星;美国Sun公司
-4762 Sunday n.星期日
-4763 sunrise n.日出，拂晓;朝霞
-4764 sunset n.日落，傍晚;晚霞
-4765 sunshine n.日光,日照;晴天;
-4766 super a.极好的,超级的
-4767 superb a.极好的,杰出的;华丽的;
-4768 superficial a.表面的;肤浅的,浅薄的
-4769 superfluous a.多余的，过剩的，
-4770 superior a.优良的,卓越的;上级的 n.上级;长者;高手
-4771 superiority n.优越(性)，优势，优等;高傲，傲慢
-4772 supermarket n.超级市场
-4773 supersonic a.超音速的,超声波的 n.超声波，超声频
-4774 superstition n.迷信，迷信的观念习俗
-4775 supervise v.管理,监督
-4776 supper n.晚餐
-4777 supplement n.补遗;增刊;附录 v.增刊,补充
-4778 supply v.(with,to)供给,供应,补足 n.供应,供应量
-4779 support n./vt.支撑;支持;赡养;维持 n.支持者;支柱
-4780 suppose v.料想,猜想;假定;conj.假使...结果会怎样
-4781 suppress v.镇压,压制;抑制,忍住;查禁
-4782 supreme a.极度的,最重要的;至高的,最高的
-4783 sure a.肯定的;一定会…的;有信心的，有把握的
-4784 surface n.表面;外表 a.表面的，肤浅的
-4785 surge vi.汹涌;彭湃;蜂拥而至 n.巨浪;汹涌;彭湃
-4786 surgeon n.外科医生
-4787 surgery n.外科,外科学;手术室,诊疗室
-4788 surname n.姓
-4789 surpass vt.超过,胜过
-4790 surplus n.过剩,剩余;余款,余额 a.过剩的,剩余的
+4761 sun n.
+4762 Sunday n.
+4763 sunrise n.
+//	4764 sunset n.
+4765 sunshine n.
+4766 super a.
+4767 superb a.
+//	4768 superficial a.
+//	4769 superfluous a.		
+4770 superior a.   n.
+//	4771 superiority n.		*
+4772 supermarket n.
+//	4773 supersonic a.   n.	*
+//	4774 superstition n.	*
+//	4775 supervise v.		*
+4776 supper n.
+4777 supplement n.   v.
+4778 supply v.(with,to)   n.
+4779 support n./vt.  n.
+//	4780 suppose v.  conj.	*
+//	4781 suppress v.		*
+//	4782 supreme a.			*
+4783 sure a.
+4784 surface n.   a.
+//	4785 surge vi.  n.		
+//	4786 surgeon n.		
+//	4787 surgery n.			*
+4788 surname n.
+//	4789 surpass vt.		*
+//	4790 surplus n.   a.	*
+4791 surprise v.   n.
+4792 surrender vi.  vt.   n.
+4793 surround vt   n.
+4794 surroundings n.
+4795 survey v./n.
+4796 survival n.
+4797 survive v.
+//	4798 susceptible a.		*
+4799 suspect v.  a.   n.
+//	4800 suspend v.			*
+//	4801 suspicion n.		*
+//	4802 suspicious a.(of)	*
+//	4803 sustain vt.		
+4804 swallow n.  vt.  vi.
+//	4805 swamp n.   vt.		*
+//	4806 swan n.   vi.		*
+//	4807 swarm n.   vi.		*
+//	4808 sway vi.   vt.  n.	*
+//	4809 swear v.(at)		*
+//	4810 sweat n.   v.		*
+//	4811 sweater n.
+//	4812 sweep v.			*
+//	4813 sweet a.   n.
+//	4814 swell n./v.		*
+4815 swift a./ad.  a.  n.
+//	4816 swim vi.   vt.   n.
+//	4817 swing v.   n.
+4818 switch n.  v.
+4819 sword n.
+4820 symbol n.
+4821 symmetry n.对称(性);匀称,整齐
+4822 sympathetic a.有同情心的;赞同的;n.交感神经
+4823 sympathize v.(sympathise)(with)同情;共鸣,同感;赞成
+4824 sympathy n.同情，同情心;赞同，同感;慰问
+4825 symphony n.交响乐,交响曲
+4826 symposium n.讨论会,专题报告会;专题论文集
+4827 symptom n.(疾病的)症状;(不好事情的)征兆,表征
+4828 syndrome n.综合病征;并存特性
+4829 synthesis n.(pl.syntheses)综合,合成
+4830 synthetic a.合成的,人造的;综合的
+4831 system n.系统，体系;制度;方法，方式，步聚
+4832 systematic a.(systematical)系统的,有组织的
+4833 table n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
+4834 tablet n.药片;碑,匾
+4835 tackle n.滑车;用具,器械 v.处理,解决;抱住,抓住
+4836 tactic n.(tactics)策略,战术
+4837 tag n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随
+4838 tail n.尾巴;尾部;跟踪者 vt.尾随，跟踪
+4839 tailor n.裁缝 v.缝制,剪裁
+4840 take v.拿取;吃;记录;取得;花费;捕获;认为
+4841 tale n.故事,传说
+4842 talent n.才能,天资;人才
+4843 talk n.谈话;聊天;讲话;演讲 v.说话;交谈
+4844 tall a.(身材)高的,高大的;夸大的,离谱的
+4845 tame a.驯服的,温顺的;沉闷的,乏味的 vt.驯服
+4846 tan n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑
+4847 tangle n.纠缠;缠结;混乱 v.(使)缠绕;变乱
+4848 tank n.罐,槽,箱;坦克 vt.储于槽中
+4849 tanker n.油船
+4850 tap n.塞子;水龙头; n./v.轻打,轻敲; vt.开发
