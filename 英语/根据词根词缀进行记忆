@@ -2518,33 +2518,2073 @@
 //	2668 justify v. 		*
 //	2669 juvenile n.  a.	*
 2670 keen a.
-2671 keep v.保持,保存,遵守,经营,看守,拘留,维持
-2672 kettle n.水壶
-2673 key n.钥匙;答案;关键;键 a.主要的，关键的
-2674 keyboard n.键盘 vt.用键盘输入(信息)
-2675 kick n./v.踢
-2676 kid n.小孩,儿童 v.戏弄,取笑
-2677 kidnap vt.诱拐;绑架，劫持
-2678 kidney n.肾,肾脏
-2679 kill vt.杀死，消灭;破坏，毁灭;消磨(时间)
-2680 kilo n.(kilogram/kilogramme)千克
-2681 kilometre n.(kilometer) 公里，千米(略作km)
-2682 kin n.家族,亲属,血缘关系 a.亲属关系的,同类的
-2683 kind a.仁慈的，友好的，亲切的，和蔼的 n.种类
-2684 kindergarten n.幼儿园
-2685 kindness n.仁慈,亲切;好意;友好行为
-2686 king n.君主，国王
-2687 kingdom n.王国,领域
-2688 kiss n./v.吻,接吻
-2689 kit n.成套工具,用具包,工具箱
-2690 kitchen n.厨房
-2691 kite n.风筝
-2692 knee n.膝,膝盖
-2693 kneel v.跪,下跪
-2694 knife n.刀,餐刀 v.用刀切,用匕首刺
-2695 knit v.编织,编结;接合,粘合
-2696 knob n.门把,(球形)把手,旋纽
-2697 knock v.敲,敲打,碰撞 n.敲,击
-2698 knot n.(绳)结;(树)节;节(=海里/小时) v.打结
-2699 know vt.知道，了解;认识;识别 vi.知道，了解
-2700 knowledge n.知识,学识;知道,了解
+2671 keep v.
+2672 kettle n.
+2673 key n.   a.
+2674 keyboard n.   vt.
+//	2675 kick n./v.			*
+2676 kid n.  v.
+2677 kidnap vt.
+2678 kidney n.
+2679 kill vt.
+2680 kilo n.(kilogram/kilogramme)
+2681 kilometre n.(kilometer) 
+//	2682 kin n.   a.
+2683 kind a. n.
+2684 kindergarten n.
+2685 kindness n.
+2686 king n.
+2687 kingdom n.
+2688 kiss n./v.
+2689 kit n.
+//	2690 kitchen n.
+//	2691 kite n.
+//	2692 knee n.
+//	2693 kneel v.
+2694 knife n.   v.
+//	2695 knit v.			*
+//	2696 knob n.			*
+2697 knock v.   n.
+//	2698 knot n.  v.
+2699 know vt.   vi.
+2700 knowledge n.
+2701 lab n.(laboratory)
+2702 label n.   v.
+2703 labor n.(labour)   v.
+//	2704 lace n.  v.		*
+2705 lack n./v.
+2706 lad n.
+2707 ladder n.
+2708 lady n.
+//	2709 lag v./n.   vt.	
+2710 lake n.
+2711 lamb n.
+2712 lame a.
+//	2713 lamp n.
+2714 land n.  v.
+2715 landlady n.
+2716 landlord n.
+//	2717 lane n.			*
+2718 language n.
+2719 lantern n.
+2720 lap n.
+//	2721 lapse n.   v.		*
+2722 laptop n.
+2723 large a.
+2724 largely ad.
+2725 laser n.
+//	2726 lash v.    n.		
+2727 last a.   ad.   n.  v.
+2728 late a.   ad.
+//	2729 lately ad.			*
+//	2730 latent a.
+//	2731 later ad.			*
+2732 lateral n.
+2733 Latin a.   n.
+2734 latitude n.
+//	2735 latter a.   n.
+2736 laugh v.   n.
+2737 laughter n.
+2738 launch v.   n.
+//	2739 laundry n.
+2740 lavatory n.
+2741 law n.
+//	2742 lawn n.
+2743 lawyer n.
+2744 lay v.
+//	2745 layer n.
+//	2746 layman n.
+//	2747 layoff n.			*
+//	2748 layout n.			*
+//	2749 lazy a.
+2750 lead v.   n.
+2751 leadership n.
+2752 leading a.
+//	2753 leaf n.			*
+//	2754 leaflet n.			*
+2755 league n.
+//	2756 leak v.   n.
+//	2757 lean v.   a.		*
+//	2758 leap v.   n.		*
+2759 learn v.
+2760 learned a.
+2761 learning n.			
+2762 lease vt.   n.
+2763 least a.   ad.
+//	2764 leather n.			
+2765 leave v.  n.
+//	2766 lecture n./v.		*
+2767 left n.  a.
+2768 leg n.
+2769 legacy n.
+2770 legal a.
+//	2771 legend n.
+2772 legislation n.
+2773 legitimate a.   vt.
+//	2774 leisure n.			*
+2775 lemon n.
+//	2776 lend vt.			*
+2777 length n.
+//	2778 lens n.
+2779 less a./ad.
+2780 lesson n.
+//	2781 lest conj.			*
+2782 let v.					*
+2783 letter n.
+2784 level n.  v.
+//	2785 lever n.			*
+//	2786 levy n.   v.
+//	2787 liability n.		
+//	2788 liable a.
+2789 liberal a.
+2790 liberate vt.
+//	2791 liberty n.
+2792 librarian n.
+2793 library n.
+2794 license n.(licence)  v.
+2795 lick vt.  n.
+//	2796 lid n.
+2797 lie vi.   v.   n.
+2798 life n.
+2799 lifetime n.
+2800 lift v.   n.
+2801 light n.   v.   a.
+//	2802 lightning n.   a.
+2803 like v.   prep.   a.   n.
+//	2804 likelihood n.		*
+2805 likely a.   ad.
+//	2806 likewise ad.
+//	2807 limb n.			*
+2808 limit n.  v.(to)
+//	2809 limitation n.
+2810 limited a.				*
+//	2811 limp a.   v./n.	*
+2812 line n.   v.
+2813 linear a.
+//	2814 linen n.			*
+//	2815 liner n.			*
+//	2816 linger v.
+//	2817 linguistic a.
+2818 link v.   n.
+2819 lion n.
+2820 lip n.
+2821 liquid n.   a.
+//	2822 liquor n.
+2823 list n.   v.
+2824 listen vi. 
+//	2825 literacy n.		
+//	2826 literally ad.		*
+//	2827 literary a.		*
+//	2828 literature n.
+//	2829 litre n.(liter) 	*
+//	2830 litter n.  v.		*
+2831 little a.   ad./n.
+2832 live v.   a.
+//	2833 lively a.			*
+//	2834 liver n.			*
+2835 living a.  n.
+2836 living-room n.
+2837 load v.  n. 
+//	2838 loaf n.
+//	2839 loan n.   v.
+//	2840 lobby n.
+2841 local a.
+//	2842 locality n.		*
+2843 locate v.
+2844 location n.
+//	2845 lock n.  v.
+//	2846 locker n.			*
+//	2847 locomotive n.   a.
+//	2848 lodge v.  n.		*
+//	2849 lofty a.			*
+2850 log n.
+2851 logic n.
+2852 logical a.
+2853 lonely a.
+2854 long a.   ad.
+2855 longitude n.
+2856 look vi./n.  v.   n.
+2857 loom n.   v.
+2858 loop n.
+2859 loose a.
+//	2860 loosen v.			
+2861 lord n.(Lord)
+//	2862 lorry n.			*
+//	2863 lose v.
+//	2864 loss n.
+2865 lot n.
+//	2866 lottery n.			*
+//	2867 loud a.
+2868 loudspeaker n.
+//	2869 lounge n.			*
+2870 love n.   vt.
+2871 lovely a.
+2872 lover n. 
+2873 low a.
+//	2874 lower a.   v.
+2875 loyal a.(to)
+2876 loyalty n.
+//	2877 lubricate v.		*
+2878 luck n.
+2879 lucky a.
+2880 luggage n.		
+2881 lumber n.
+//	2882 lump n.   v.
+//	2883 lunar a.			*
+//	2884 lunch n.
+2885 lung n.
+//	2886 lure n.   vt.		*
+//	2887 luxury n.   a.		*
+2888 machine n.   v.
+2889 machinery n.
+2890 mad a.
+2891 madame n.(madam)
+2892 magazine n.
+2893 magic n.   a.
+//	2894 magistrate n.		*
+2895 magnet n.	
+//	2896 magnetic a.
+//	2897 magnificent a.		*
+//	2898 magnify vt.		*
+//	2899 magnitude n.		*
+//	2900 maid n.
+//	2901 maiden n.   a.
+//	2902 mail n.   v.		*
+2903 main a.   n.
+2904 mainland n.
+2905 maintain v.
+//	2906 maintenance n.		*
+//	2907 majesty n.			*
+2908 major a.   n.  v.
+//	2909 majority n.		*
+2910 make n.   vt.	
+2911 male n./a.
+//	2912 malignant a.
+2913 mammal n.
+2914 man n.(pl.men)
+2915 manage v.
+2916 management n.
+2917 manager n.
+//	2918 maneuver n.(manoeuvre)   v.	*
+2919 manifest v.  a.
+//	2920 manipulate vt.		*
+2921 mankind n.
+//	2922 manner n.			*
+//	2923 manual a.  n.
+//	2924 manufacture v.   n.*
+//	2925 manuscript n.		*
+2926 many a.   pron.
+2927 map n.   vt.
+//	2928 marble n.			*
+2929 march v.   n.
+2930 March n. 
+2931 margin n.
+2932 marginal a.
+//	2933 marine a.
+//	2934 marital a.			*
+2935 mark n.   v.
+2936 market n.   v.
+2937 marriage n.
+2938 married a.   (to)
+2939 marry v.
+//	2940 marvelous a.(marvellous)		*
+2941 Marxist a.   n.
+//	2942 masculine a.		*
+2943 mask n.   v.
+2944 mass n.
+//	2945 massacre vt.  n.	*
+2946 massive a.
+2947 master n.   v.  a.
+//	2948 masterpiece n.		*
+//	2949 mat n.  
+2950 match n.   v.
+2951 mate n.   v.
+2952 material n.  a.	
+2953 mathematical a.
+2954 maths n.(mathematics/math)
+//	2955 matter n.   v.		*
+//	2956 mature a.   v.		*
+//	2957 maximum n.   a.	*
+2958 may aux.v.
+2959 May n.
+2960 maybe adv.
+//	2961 mayor n.
+2962 me pron.
+//	2963 meadow n.			*
+//	2964 meal n.
+2965 mean v.   a.  n.
+//	2966 meaning n.
+//	2967 means n.			*
+//	2968 meantime n.(meanwhile)   ad.
+2969 meanwhile n.  ad.
+2970 measure v.   n.
+2971 meat n.
+//	2972 mechanic n.		
+2973 mechanical a.
+//	2974 mechanism n.
+//	2975 medal n.			*
+2976 medical a.
+//	2977 medicine n.
+//	2978 medieval a.		*
+//	2979 meditate v.		*
+//	2980 meditation n.		*
+//	2981 medium n.(pl.media)   a.
+2982 meet n.   v.
+2983 meeting n.
+//	2984 melody n.			
+//	2985 melon n.			*
+//	2986 melt v.			*
+2987 member n.
+2988 membership n.
+//	2989 memo n.(memorandum)*
+//	2990 memorial a.   n.
+2991 memory n.
+//	2992 menace vt./n.		*
+//	2993 mend v.			*
+2994 mental a.
+//	2995 mention v./n.		
+2996 menu n.
+//	2997 merchandise n.		*
+//	2998 merchant n.		*
+//	2999 mercury n.			*
+3000 mercy n.
+3001 mere a.
+3002 merely adv.
+//	3003 merge v.
+//	3004 merit n.   v.		*
+//	3005 merry a.			*
+//	3006 mess n.   v.		*
+3007 message n.
+3008 messenger n.
+//	3009 metal n.
+//	3010 metaphor n.		*
+3011 method n.
+3012 metre n.(meter)
+3013 metric a.
+//	3014 metropolitan a.
+3015 microphone n.
+3016 microscope n.
+3017 middle n./a.
+3018 midst n.
+3019 might aux.v.   n.
+3020 migrate v.
+//	3021 mild a.
+//	3022 mile n.			*
+//	3023 militant a.   n.	*
+3024 military a.
+3025 milk n.   v.
+//	3026 mill n.
+//	3027 millimeter n.(millimetre)
+3028 million num./n.
+//	3029 millionaire n.
+3030 mind n.   v.
+3031 mine pron.  n.  v.
+//	3032 mineral n.   a.
+3033 missile n.
+3034 missing a.
+3035 mission n.
+3036 missionary a.   n.
+3037 mist n.
+3038 mistake n.   v.  (for)
+3039 mistress n.
+3040 misunderstand v.
+3041 mix v.
+3042 mixture n.
+//	3043 moan n.  v.
+//	3044 mob n.   vi.		*
+//	3045 mobile a.
+//	3046 mobilize v.(mobilise)
+//	3047 mock v.  a.   n.	*
+//	3048 mode n.
+3049 model n.   v.
+//	3050 moderate a.		*
+3051 modern a.
+3052 modernization n.(modernisation)
+//	3053 modest a.			
+3054 modify v.
+3055 module n.
+3056 moist a.
+3057 moisture n.
+3058 molecule n.
+3059 moment n.
+//	3060 momentum n.
+3061 monarch n.
+3062 Monday n.
+//	3063 monetary a.
+3064 money n.
+3065 monitor n.   v.
+3066 monkey n.
+//	3067 monopoly n.		*
+//	3068 monotonous a.		*
+3069 monster n.
+3070 month n.
+//	3071 monthly a.  ad.   n.
+//	3072 monument n.
+//	3073 mood n.
+3074 moon n.(加the)
+3075 moral a.   n.
+3076 morality n.
+3077 more a.  n.  ad.
+//	3078 moreover conj./ad.
+3079 morning n.
+//	3080 mortal a.   n.		*
+//	3081 mortgage n./v.		*
+//	3082 mosaic n.			*
+//	3083 mosquito n.
+//	3084 moss n.
+3085 most a.   ad.   n.
+3086 mostly ad.
+3087 motel n.
+3088 mother n.
+//	3089 motion n.   v.		*
+3090 motivate vt.
+3091 motive n.   a.
+//	3092 motor n.			*
+3093 mould n.(mold)   v.
+//	3094 mount v.  n.		*
+3095 mountain n.
+//	3096 mourn v.			*
+3097 mouse n.(pl.mice)
+3098 mouth n.
+3099 move v.   n.
+//	3100 movement n.
+3101 movie n.
+3102 much a.   ad.
+3103 mud n.   v.
+//	3104 mug n.
+3105 multiple a.   n.  v.
+//	3106 multiply v.(by)
+//	3107 multitude n.		*
+//	3108 municipal a.		*
+3109 murder v./n.
+//	3110 murmur v./n.
+3111 muscle n.
+//	3112 muscular a.
+3113 museum n.
+//	3114 mushroom n.   vt.	*
+3115 music n.
+3116 musical a.   n.
+3117 musician n.
+3118 must aux.&v.   n.
+//	3119 mute a.  n. v.		*
+//	3120 mutter n.   v.
+3121 mutton n.
+//	3122 mutual a.			*
+3123 my pron.
+3124 myself pron.
+3125 mysterious a.
+3126 mystery n.
+3127 myth n.
+3128 nail n.   v.
+//	3129 naive a.			
+3130 naked a.
+3131 name n.   vt.
+//	3132 namely ad.
+//	3133 nap n.				*
+//	3134 napkin n.			*
+//	3135 narrative a.  n.	*
+3136 narrow a.
+3137 nasty a.
+//	3138 nation n.
+3139 national a.
+//	3140 nationality n.
+3141 native a.   n.
+3142 natural a.
+//	3143 nature n.
+//	3144 naughty a.
+3145 naval n.
+3146 navigation n.
+3147 navy n.
+3148 near a.   prep.   ad.
+3149 nearby a.  ad.  prep.
+//	3150 nearly ad.
+//	3151 neat a.
+3152 necessary a.   n.
+3153 necessitate v.
+//	3154 necessity n.		*
+3155 neck n.
+3156 necklace n.
+3157 need aux.v./v.   n.
+//	3158 needle n.
+3159 negative a.  n.
+3160 neglect v./n.
+//	3161 negligible a.		
+//	3162 negotiate v.		*
+//	3163 Negro n.   a.
+3164 neighbor n.(neighbour)
+//	3165 neighborhood n.(neighbourhood)			*
+3166 neither a.   pron.   ad.
+3167 nephew n.
+//	3168 nerve n.
+3169 nervous a.
+3170 nest n.   v.
+3171 net n.   v.   a.
+3172 network n.
+//	3173 neutral a.			*
+3174 never ad.
+//	3175 nevertheless conj.(nonetheless)   ad.	*
+3176 new a.
+3177 news n.
+3178 newspaper n.
+3179 next a.   ad.
+3180 nice a.
+//	3181 nickel n.
+3182 nickname n.  vt.
+3183 niece n.
+3184 night n.
+3185 nightmare n.
+3186 nine num.九 pron./ad.
+3187 nineteen num./a.   pron.
+3188 ninety num.
+//	3189 nitrogen n.
+3190 no ad.   a.   n.
+//	3191 noble a.   n.
+3192 nobody pron.   n.
+3193 nod v.   n.
+3194 noise n.
+3195 noisy a.
+//	3196 nominal a.			*
+//	3197 nominate v.		*
+3198 none pron.   ad.
+//	3199 nonetheless ad.[nevertheless]			*
+//	3200 nonsense n.		*
+//	3201 noodle n.
+//	3202 noon n.			
+//	3203 nor conj./ad.		*
+//	3204 norm n.			*
+3205 normal a.
+//	3206 normalization n.(normalisation)		*
+3207 north n.   a.   ad.
+3208 northeast n.   a.   ad.
+3209 northern a.
+3210 northwest n.   a.   ad.
+3211 nose n.
+//	3212 not ad.			*
+//	3213 notable n.			*
+3214 note n.  v.
+3215 notebook n.
+3216 nothing n.
+3217 notice n.  v.
+3218 noticeable a.
+//	3219 notify v.
+3220 notion n.
+//	3221 notorious a.		*
+//	3222 notwithstanding prep./ad./conj.		*
+//	3223 noun n.
+//	3224 nourish v.			*
+3225 novel n.   a.
+//	3226 novelty n.			*
+3227 November n.
+3228 now ad.
+3229 nowadays ad.
+3230 nowhere ad.			*
+//	3231 nuclear a.
+//	3232 nucleus n.(pl.nuclei)
+//	3233 nuisance n.		*
+//	3234 numb a.   v.
+3235 number n.   v.
+//	3236 numerical a.		*
+//	3237 numerous a.		*
+3238 nurse n. 	v.
+//	3239 nursery n.
+//	3240 nurture n./v.  n.  *
+//	3241 nut n.				*
+//	3242 nutrition n.		*
+3243 nylon n.
+//	3244 oak n.   a.
+//	3245 oar n.   v.
+//	3246 oath n.			*
+//	3247 obedience n.		*
+//	3248 obedient a.		*
+3249 obey v.
+3250 object n.   v.(to)
+3251 objection n.(to)
+//	3252 objective n.   a.
+//	3253 obligation n.		*
+//	3254 oblige v.			*
+//	3255 obscure a.			*
+3256 observation n.  (pl)
+3257 observe v.
+//	3258 obsession n.		*
+//	3259 obsolete a.		*
+3260 obstacle n.
+//	3261 obstruct v.   n.
+//	3262 obstruction n.
+3263 obtain v.
+3264 obvious a.
+//	3265 occasion n.
+//	3266 occasional a.		*
+3267 occupation n.
+3268 occupy v.
+3269 occur v.
+//	3270 occurrence n.
+3271 ocean n.
+3272 o'clock ad.
+3273 October n.
+//	3274 odd a.				*
+//	3275 odds n.			*
+3276 odor n.(odour)
+3277 of prep.…
+3278 off ad.   prep.
+//	3279 offend v.
+//	3280 offensive a.   n.	*
+3281 offer v.   n.
+3282 office n.
+//	3283 officer n.
+//	3284 official n.  a.
+3285 offset n.   v.
+//	3286 offspring n.		*
+3287 often ad.
+3288 oil n.   v.
+//	3289 okay a.(okey，OK，O.K)   n.			*
+3290 old a.
+//	3291 omit v.			*
+3292 on a.   prep.   ad.
+3293 once ad.   conj.
+3294 one num.
+3295 oneself pron.[反身代词]
+//	3296 onion n.			*
+3297 only ad.   a.
+3298 onto prep.
+//	3299 opaque a.			
+3300 open n.   a.
+3301 opening n.   a.
+3302 opera n.
+3303 operate v.
+3304 operation n.
+3305 operational a.
+3306 operator n.
+3307 opinion n.
+//	3308 opponent n.   a.	*
+3309 opportunity n.
+3310 oppose v.
+3311 opposite a.   n.
+//	3312 oppress v.
+3313 opt vi.
+//	3314 optical a.			*
+3315 optimistic a.
+//	3316 optimum a.  n.		*
+//	3317 option n.			*
+//	3318 optional a.		*
+3319 or conj.
+//	3320 oral a. 			*
+3321 orange n.
+//	3322 orbit n.   v.
+//	3323 orchard n.			*
+//	3324 orchestra n.		*
+3325 order n.   v.
+3326 orderly a.   n.
+//	3327 ordinary a.		*
+//	3328 ore n.				*
+3329 organ n.
+3330 organic a.
+3331 organism n.
+3332 organization n.(organization)
+3333 organize v.(organise)
+3334 orient n.   v.
+3335 oriental a.   n.
+//	3336 orientation n.
+3337 origin n.
+3338 original a.   n.
+//	3339 originate v.(in,from)
+//	3340 ornament v.   n.	*
+//	3341 orphan n.			*
+//	3342 orthodox a.		*
+3343 other a.   n./pron.
+//	3344 otherwise ad.  conj*
+3345 ought aux.
+3346 ounce n.
+3347 our pron.
+3348 ours pron.
+3349 ourselves pron.
+3350 out ad.   a.
+3351 outbreak n.
+3352 outcome n.
+3353 outdoor a.
+3354 outer a.
+//	3355 outfit n.   v.		*
+//	3356 outing n.			*
+//	3357 outlet n.			*
+//	3358 outline n.  v.
+//	3359 outlook n.			*
+//	3360 output n.			*
+//	3361 outrage n.   v.	
+//	3362 outset n.			*
+3363 outside ad.   n.    a.  
+//	3364 outskirts n.		*
+3365 outstanding a.
+//	3366 outward a.  ad.  n.*
+3367 oval a.    n.
+//	3368 oven n.			*
+3369 over ad.   prep.   a.
+3370 overall a.   n.(pl)
+//	3371 overcoat n.
+//	3372 overcome v.
+3373 overflow v.
+3374 overhead a.   ad.
+//	3375 overhear v.
+//	3376 overlap v.   n.
+3377 overlook v.
+//	3378 overnight a.  ad.	*
+//	3379 overpass n.   vt.	*
+3380 overseas a.   ad.
+//	3381 overtake v.		*
+//	3382 overthrow v./n.	*
+//	3383 overtime a.   ad.	*
+//	3384 overturn n.   v.	*
+//	3385 overwhelm v.		*
+//	3386 overwhelming a.	*
+3387 owe v.
+//	3388 owing a.			*
+//	3389 owl n.
+3390 own a.
+3391 owner n.				
+//	3392 ownership n.
+//	3393 ox n.
+3394 oxide n.
+//	3395 oxygen n.
+3396 ozone n.
+//	3397 pace n.   v.
+3398 pack v.  n.
+3399 package n.
+3400 packet n.
+//	3401 pact n.			*
+//	3402 pad n.   v.		*
+//	3403 paddle n.    v.	*
+3404 page n.    vt.
+//	3405 pail n.			*
+3406 pain n.    vt.
+3407 painful a.
+3408 paint n.  v.
+3409 painter n.
+3410 painting n.
+3411 pair n.   v.
+3412 palace n.
+//	3413 pale a.			*
+//	3414 palm n.  vt.		*
+//	3415 pamphlet n.		*
+//	3416 pan n.
+3417 panda n.
+//	3418 panel n.			*
+//	3419 panic n./a.   vt.	*
+//	3420 panorama n.		*
+//	3421 pant n.    v.		
+//	3422 pants n.			*
+3423 paper n.
+//	3424 paperback n.
+//	3425 parachute n.   v.
+//	3426 parade n./v.  n.   * 
+//	3427 paradigm n.		*
+//	3428 paradox n.			*
+3429 paragraph n.
+//	3430 parallel a.  n.	*
+//	3431 paralyze v.(paralyse)*
+3432 parameter n.	
+//	3433 parasite n.		*
+//	3434 parcel n.   v.		*
+//	3435 pardon n.  v.		*
+//	3436 parent n. 
+3437 park n.   v.
+//	3438 parliament n.		*
+3439 part n.  v.
+//	3440 partial a.			*
+3441 participant n.   a.
+3442 participate v.(in)
+//	3443 particle n.		*
+3444 particular a.  n.
+3445 partly ad.
+3446 partner n.
+3447 party n.   v.
+3448 pass v.   n.
+//	3449 passage n.
+3450 passenger n.
+3451 passer-by n.(pl.passers-by)
+//	3452 passion n.			*
+//	3453 passive a.
+3454 passport n.
+3455 past a.   ad.   n.
+3456 paste 
+3457 pastime n.
+//	3458 pasture n.			*
+//	3459 pat v./n.
+//	3460 patch n.   v.		*
+//	3461 patent a.  n.  v.	*
+3462 path n.
+//	3463 pathetic a.		*
+3464 patience n.
+3465 patient a.   n.
+//	3466 patriotic a.		*
+//	3467 patrol v.   n.		*
+//	3468 patron n.			*
+3469 pattern n.   v.
+3470 pause v./n.
+//	3471 pave v.
+//	3472 pavement n.
+3473 paw n.
+3474 pay v.   n.
+3475 payment n.
+3476 pea n.
+3477 peace n.
+//	3478 peaceful a.
+//	3479 peach n.
+3480 peak n.   a.
+//	3481 peanut n.				
+//	3482 pear n.
+//	3483 pearl n.
+3484 peasant n.
+//	3485 pebble n.
+//	3486 peculiar a.		*
+//	3487 pedal n.   v.	
+//	3488 pedestrian n.  a.	*
+//	3489 peel v.   n.		*
+//	3490 peep v.			*
+3491 peer n.   v.
+3492 pen n.   vt.
+3493 penalty n.
+//	3494 pencil n.   vt.
+//	3495 pendulum n.		*
+//	3496 penetrate v.		*
+//	3497 peninsula n.		*
+3498 penny n.
+//	3499 pension n.			*
+3500 people n.
+//	3501 pepper n.
+3502 per prep.				*
+//	3503 perceive v.		*
+3504 percent n.(per cent)
+3505 percentage n.  
+3506 perfect a.   v.
+//	3507 perfection n.
+3508 perform v.
+3509 performance n.
+//	3510 perfume n.    v.
+3511 perhaps ad.
+3512 period n.
+//	3513 periodical n.   a.	
+//	3514 perish v.
+3515 permanent a.
+//	3516 permeate v.	
+3517 permission n.
+//	3518 permit v.   n.
+//	3519 perpetual a.		*
+//	3520 perplex v.			*
+//	3521 persecute v.		*
+//	3522 persevere v.		*
+//	3523 persist v.(in)		*
+3524 person n.
+3525 personal a.
+//	3526 personality n.		*
+//	3527 personnel n.		*
+//	3528 perspective n.
+3529 persuade v.  (of)
+3530 persuasion n.
+//	3531 pessimistic a.
+//	3532 pest n.
+3533 pet n.   a.
+//	3534 petition n.   v.	*
+3535 petrol n.
+3536 petroleum n.
+//	3537 petty a.			*
+//	3538 pharmacy n.		*
+//	3539 phase n.			*
+3540 phenomenon n.
+3541 philosopher n.
+3542 philosophy n.
+3543 phone n.(telephone)   v.
+3544 photo n.(photograph)
+3545 phrase n.
+3546 physical a.
+3547 physician n.
+3548 physicist n.
+3549 physics n.
+//	3550 physiological a.	*
+3551 piano n.
+3552 pick v.   n.
+//	3553 pickup n.			*
+3554 picnic n.  v.
+3555 picture n.   v.
+//	3556 pie n.
+//	3557 piece n.  v.(together)
+//	3558 pierce v.			*
+3559 pig n.
+//	3560 pigeon n.			*
+//	3561 pile n.   v.(up)	*
+//	3562 pilgrim n.
+3563 pill n.
+//	3564 pillar n.			*
+//	3565 pillow n.
+//	3566 pilot n.			*
+//	3567 pin n.   v.(up)	*
+//	3568 pinch v.			*
+//	3569 pine n.			*
+3570 pink n.   a.
+3571 pint n.
+3572 pioneer n.
+3573 pipe n.
+3574 pirate n./v.
+3575 pistol n.
+//	3576 piston n.
+//	3577 pit n.
+//	3578 pitch n.  v.		*
+//	3579 pity v.   n.
+3580 place n.  v.
+//	3581 plague n.   vt.	*
+//	3582 plain a.  n.		*
+3583 plan n.   v.
+3584 plane n.
+3585 planet n.
+3586 plant n.  v.
+//	3587 plantation n.		*
+//	3588 plaster n.			*
+//	3589 plastic n.   a.	*
+//	3590 plate n.  v.		*
+//	3591 plateau n.			*
+3592 platform n.
+//	3593 plausible a.		*
+3594 play v.  n.
+//	3595 playground n.
+//	3596 plea n.	
+//	3597 plead v.
+3598 pleasant a.   vt.   	*
+3599 please v.
+//	3600 pleasure n.	
+//	3601 pledge n.   v.
+3602 plentiful a.
+3603 plenty n.
+//	3604 plight n.   v.		*
+//	3605 plot n.   v.		*
+//	3606 plough n.(plow)   v*
+//	3607 plug n.    v.		*
+3608 plumber n.
+3609 plunge v.(into)
+//	3610 plural a.   n.		*
+3611 plus prep.   a.  n.
+//	3612 pneumonia n.		*
+3613 pocket n.   a.   v.
+3614 poem n.
+3615 poet n.
+//	3616 poetry n.			*
+3617 point n.   v.(at,to)
+3618 poison n.   v.
+3619 poisonous a.
+//	3620 poke n.   v.
+3621 polar a.  n.
+//	3622 pole n.
+3623 police n.   a.   v.
+3624 policeman n.
+3625 policy n.
+//	3626 polish v.   n.		*
+//	3627 polite a.			*
+3628 political a.
+3629 politician n.
+3630 politics n.
+//	3631 poll n.   v.
+3632 pollute v.
+3633 pollution n.
+3634 pond n.
+//	3635 ponder v.			*
+3636 pool n.  v.
+3637 poor a.
+3638 pop a.  v.
+//	3639 pope n.			*
+3640 popular a.
+3641 population n.
+//	3642 porcelain n.   a.	
+//	3643 porch n.			
+3644 pork n.
+3645 port n.
+//	3646 portable a.		*
+//	3647 porter n.			*
+//	3648 portion n.			*
+3649 portrait n.
+//	3650 portray v.
+3651 pose n.   v.
+3652 position n.
+3653 positive a.
+3654 possess v.
+3655 possession n.  (pl)
+3656 possibility n.
+3657 possible a.
+3658 possibly ad.
+//	3659 post v.   n.		*
+//	3660 postage n.
+3661 postcard n.
+3662 poster n
+3663 postman n.
+3664 postpone v.
+3665 posture n.   v.
+//	3666 pot n.
+3667 potato n.
+3668 potential a.   n.
+//	3669 poultry n.			*
+//	3670 pound n.   v.		*
+//	3671 pour v.
+3672 poverty n.
+3673 powder n.
+3674 power n.
+3675 powerful a.
+//	3676 practical a.
+//	3677 practically ad.
+3678 practice n.
+3679 practise v.
+//	3680 practitioner n.
+3681 praise v.   n.
+//	3682 pray v.
+//	3683 prayer n.
+//	3684 preach v.
+//	3685 precaution n.		*
+//	3686 precede v.			*
+//	3687 precedent n.		*
+//	3688 preceding a.		*
+3689 precious a.
+//	3690 precise a.			*
+3691 precision n.
+//	3692 preclude v.
+//	3693 predecessor n.		*
+3694 predict v.
+//	3695 predominant a.(over)
+//	3696 preface n.   v.
+3697 prefer v.(to)
+3698 preferable a.(to)
+//	3699 preference n.(for,to)*
+//	3700 pregnant a.		*
+3701 prejudice n.  v.
+//	3702 preliminary a.		*
+//	3703 premier n.			*
+//	3704 premise n.  v.		*
+//	3705 premium n.			*
+3706 preparation n.
+3707 prepare v.
+//	3708 preposition n.		*
+//	3709 prescribe v.		*
+//	3710 prescription n.	*
+3711 presence n.
+3712 present a.   n.   v.
+//	3713 presently ad.
+//	3714 preserve v.
+//	3715 preside v.(at,over)*
+3716 president n.
+3717 press v.   n.
+3718 pressure n.
+//	3719 prestige n.		*
+//	3720 presumably ad.
+3721 presume v.
+3722 pretend v.
+//	3723 pretext n.			*
+//	3724 pretty ad.			*
+//	3725 prevail v.(over,against)*
+//	3726 prevalent a.		*
+3727 prevent v.(from)
+3728 previous a.
+//	3729 prey n.   v.		*
+3730 price n.   v.
+//	3731 prick n./v.
+3732 pride n.   v.
+//	3783 priest n.
+3784 primary a.
+//	3785 prime a.   n.		
+//	3786 primitive a.		*
+3787 prince n.
+3788 princess n.
+//	3789 principal a.  n.	*
+3790 principle n.
+3791 print n.   v.
+3792 prior a.  (to)
+3793 priority n.
+3794 prison n.
+3795 prisoner n.
+3796 privacy n.
+3797 private a.
+3798 privilege n.   v.
+//	3799 prize n.   v.
+3800 probability n.
+3801 probable a. 			
+//	3802 probe n.   v.
+3803 problem n.
+3804 procedure n.
+//	3805 proceed v.			*
+//	3806 proceeding n.		*
+3807 process n.   v.
+//	3808 procession n.		*
+//	3809 proclaim v.		*
+3810 produce v.   n.
+3811 product n.
+3812 production n.
+3813 productive a.
+3814 productivity n.
+3815 profession n.
+3816 professional a.   n.	
+3817 professor n.
+//	3818 proficiency n.(in)	*
+//	3819 profile n.			*
+3820 profit n.   v.(by,from)
+//	3821 profitable a.		*
+//	3822 profound a.		*
+3823 programme n.(program)  v.
+3824 progress v./n.
+3825 progressive a.
+3826 prohibit v.
+3827 project n.   v.
+//	3828 projector n.
+//	3829 prolong v.
+//	3830 prominent a.
+3831 promise v.  n.
+3832 promising a.
+//	3833 puppet n.			*
+3834 purchase v.   n.
+//	3835 pure a.
+//	3836 purify v.
+3837 purple a.    n.
+3838 purpose n.
+//	3839 purse n.
+//	3840 pursue v.
+//	3841 pursuit n.			*
+3842 push v.   n.
+3843 put vt.
+3844 puzzle n.  v.
+//	3845 pyramid n.
+3846 qualification n.
+3847 qualify v.
+3848 qualitative a.
+3849 quality n.
+//	3850 quantify v.		
+//	3851 quantitative a.	
+//	3852 quantity n.		*
+//	3853 quarrel v.   n.
+//	3854 quart n.			*
+3855 quarter n.
+//	3856 quarterly a.   ad.   n.
+//	3857 quartz n.			*
+//	3858 queen n.			*
+//	3859 queer a.			*
+//	3860 quench v.			*
+3861 quest n.
+3862 question n.   v.
+//	3863 questionnaire n.
+3864 queue n.   v.(up)
+3865 quick a.   ad.
+3866 quiet a.   n.   v.
+//	3867 quilt n.			*
+3868 quit v.
+//	3869 quite ad.
+//	3870 quiver v./n.		*
+//	3871 quiz n.			*
+3872 quota n.
+3873 quote v.
+3874 rabbit n.
+3875 race n.   v.
+3876 racial a.
+//	3877 rack n.   v.
+//	3878 racket n.			*
+3879 radar n.
+//	3880 radiant a.
+//	3881 radiate v.
+//	3882 radical a.			*
+3883 radio n.  v.
+//	3884 radioactive a.		*
+3885 radius n.
+//	3886 rag n.
+//	3887 rage n.			*
+//	3888 raid n/v..			*
+//	3889 rail n.  			*
+3890 railroad n.(railway)   v.
+3891 rain n.   vi.   vt.
+//	3892 rainbow n.
+3893 raise v.
+3894 rake n.   v.
+//	3895 rally v.   n.		*
+3896 random a.  n.
+3897 range n.  v.
+3898 rank n.  v.
+3899 rap n.   v.
+3900 rape n./vt.
+3901 rapid a.  n.(pl)
+3902 rare a.
+3903 rarely ad.
+//	3904 rash a.   n.		*
+//	3905 rat n.				*
+//	3906 rate n.   v.
+3907 rather ad.
+//	3908 ratio n.			*
+//	3909 rational a.		*
+//	3910 raw a.				*
+//	3911 ray n.				*
+//	3912 razor n.			*
+3913 reach v.  (out)   n.
+3914 react v.  (against)
+3915 read v.   vt.   vi.
+3916 reader n.
+//	3917 readily ad.		*
+//	3918 reading n.			*
+//	3919 ready a.(for)
+3920 real a.
+//	3921 realise v.(realize)*
+//	3922 realistic a.
+3923 reality n.
+3924 really ad.
+//	3925 realm n.			*
+//	3926 reap v.			*
+//	3927 rear n.   v.		*
+3928 reason n.   v.
+3929 reasonable a.
+//	3930 reassure v.		*
+//	3931 rebel v.  n.	
+//	3932 rebellion n.
+//	3933 recede v.			*
+//	3934 receipt n.
+3935 receive v.
+3936 recent a.
+3937 reception n.
+//	3938 recipe n.			*
+//	3939 recipient a.   n.	*
+//	3940 reciprocal a.		*
+//	3941 recite v.			*
+//	3942 reckless a.		*
+//	3943 reckon v.			*
+//	3944 reclaim v.			*
+//	3945 recognition n.		*
+3946 recognize v.(recognise)
+//	3947 recollect v.
+//	3948 recommend v.
+//	3949 reconcile v.   (to,with)			*
+3950 record n.   v.
+3951 recorder n.
+3952 recover v.  (from)
+3953 recovery n.
+//	3954 recreation n.		*
+3955 recruit v.   n.
+3956 rectangle n.
+//	3957 rectify v.			*
+//	3958 recur v.			*
+3959 recycle v./n.
+3960 red a.  n.
+3961 reduce v.
+//	3962 reduction n.
+3963 redundant a.
+//	3964 reed n.			*
+//	3965 reel n.   v.		*
+3966 refer v.
+3967 reference n.
+//	3968 refine v.			*
+//	3969 reflect v.
+//	3970 reflection n.(reflexion)			*
+3971 reform v./n.
+//	3972 refrain v.   n.	*
+3973 refresh v.
+//	3974 refreshment n.(pl)	*
+//	3975 refuge n.			*
+//	3976 refugee n.			*
+//	3977 refund n.   v.		*
+3978 refusal n.
+3979 refuse v.  n.
+//	3980 refute v.
+//	3981 regard v.(as)  n.(pl)	
+3982 regarding prep.
+3983 regardless a./ad.
+//	3984 regime n.			*
+3985 region n.
+3986 register n./v.   v.
+3987 regret v./n.
+3988 regular a.
+3989 regulate v.
+//	3990 regulation n.
+//	3991 rehearsal n.		*
+//	3992 reign n./v.   n.   
+//	3993 rein n.   v.
+3994 reinforce v.
+3995 reject v.   n.
+//	3996 rejoice v.			*
+//	3997 relate v.
+3998 relation n.
+3999 relationship n.
+4000 relative a.   n.
+4001 relativity n.
+4002 relax v.
+//	4003 relay v.   n.		*
+4004 release v.   n.
+//	4005 relevant a.		*
+4006 reliable a.
+4007 reliance n.
+//	4008 relief n.
+//	4009 relieve v.			*
+4010 religion n.
+4011 religious a.
+//	4012 relish n.   v.
+//	4013 reluctant a.
+4014 rely v.(on)
+4015 remain v.
+4016 remainder n.
+4017 remains n.(pl)
+4018 remark n.(about,on)  v.(on)
+4019 remarkable a.
+//	4020 remedy n.   v.		*
+4021 remember v.  (to)
+4022 remind v.(of)
+//	4023 remnant n.   a.	*
+4024 remote a.
+//	4025 removal n.			*
+4026 remove v.
+//	4027 renaissance n.		*
+//	4028 render v.			*
+//	4029 renew v.			*
+//	4030 renovate v.		*
+4031 rent v.   n.
+//	4032 repair n.   v.
+//	4033 repay v.			*
+4034 repeat v.   n.
+4035 repeatedly ad.
+//	4036 repel v.			*
+//	4037 repertoire n.		*
+//	4038 repetition n.
+4039 replace vt.
+//	4040 replacement n.		*
+//	4041 reply v./n.(to)	
+4042 report n./v.
+4043 reporter n.
+4044 represent v.
+4045 representative n.   a.(of)
+4046 repression n.
+//	4047 reproach v./n.		*
+4048 reproduce v.
+//	4049 reptile n.			*
+4050 republic n.
+4051 republican a.
+//	4052 reputation n.		*
+4053 request v./n.
+4054 require v.   (of)
+4055 requirement n.(for)
+4056 rescue v./n.
+4057 research v./n.(into,on)
+//	4058 resemblance n.
+//	4059 resemble v.
+//	4060 resent v.			*
+//	4061 reservation n.		*
+//	4062 reserve n.   v.	*
+//	4063 reservoir n.		*
+//	4064 residence n.
+//	4065 resident n.   a.
+//	4066 resign v.			*
+4067 resist v.
+4068 resistance n.(to)
+4069 resistant a.(to)
+//	4070 resolute a.		*
+4071 resolution n.
+4072 resolve v.   n.
+//	4073 resort v.  n.		*
+4074 resource n.(pl)
+4075 respect n./v.   n.
+4076 respective a.
+4077 respond v.
+4078 response n.
+4079 responsibility n.
+4080 responsible a.(for,to)
+4081 rest n.   v.
+4082 restaurant n.
+4083 restless a.
+4084 restore v.
+//	4085 restrain v.(from)
+//	4086 restraint n.
+4087 restrict v.
+4088 result n.   v.
+//	4089 resultant a.		*
+4090 resume n.   v.
+4091 retail n.
+//	4092 retain v.			*
+//	4093 retention n.		*
+//	4094 retire v.
+//	4095 retort n./v.		*
+4096 retreat v.
+//	4097 retrieve vt.		*
+//	4098 retrospect v./n.  [反]foresee		*
+4099 return v./n.
+//	4100 reveal v.			*
+4101 revelation n.
+4102 revenge n.   v.
+4103 revenue n.
+4104 reverse n.    a.   v.
+//	4105 review v.   n.
+//	4106 revise v.
+//	4107 revive v.			*
+4108 revolt v./n.
+4109 revolution n.
+4110 revolutionary a.   n.
+//	4111 revolve v.   		*
+//	4112 reward n.(for)    v.(for)
+//	4113 rhythm n.			
+4114 rib n.
+4115 ribbon n.
+4116 rice n.
+4117 rich a.   (in)
+//	4118 rid v.(of)	
+//	4119 riddle n.			*
+4120 ride v./n.
+//	4121 ridge n.
+4122 ridiculous a.
+4123 rifle n.	
+4124 right a.    n.   ad.
+//	4125 rigid a.			*
+//	4126 rigorous a.		*
+//	4127 rim n.				*
+4128 ring n.   v.
+//	4129 riot n.   v.		*
+//	4130 rip v.   n.		*
+//	4131 ripe a.   (for)
+4132 rise v.    n.
+4133 risk v.    n.
+//	4134 ritual a.    n.	*
+//	4135 rival n.    v.   a.
+4136 river n.
+4137 road n.
+//	4138 roar n./v.			*
+4139 roast v.
+//	4140 rob v.(of)
+//	4141 robe n.			*
+4142 robot n.
+//	4143 robust a.			*
+4144 rock n.    v.
+4145 rocket n.
+//	4146 rod n.				*
+4147 role n.
+//	4148 roll v.    n.
+4149 romance n.
+4150 romantic a.
+4151 roof n.
+4152 room n.
+4153 root n.    v.
+//	4154 rope n.			*
+4155 rose n.
+//	4156 rot v.				*
+//	4157 rotary a.
+//	4158 rotate v.
+4159 rotten a.
+//	4160 rough a.			*
+4161 round a.   prep.  ad.   v.   n.
+//	4162 roundabout a.   n.	*
+4163 rouse vt./vi.
+4164 route n.
+4165 routine n.   a.
+//	4166 row n.   v.
+4167 royal a.
+4168 royalty n.
+4169 rub v.
+4170 rubber n.
+4171 rubbish n.
+4172 ruby n.
+4173 rude a.
+//	4174 rug n.				*
+4175 ruin v.    n.
+4176 rule v.   n.
+//	4177 ruler n.
+//	4178 rumor n.(rumour)	*
+4179 run v.
+4180 rural a.
+4181 rush v.    n.   a.
+//	4182 rust n.    v.	
+//	4183 ruthless a.		*
+//	4184 sack n.   v.		*
+4185 sacred a.
+//	4186 sacrifice n.    v.(for,to)
+4187 sad a.
+//	4188 saddle n.			*
+4189 safe a.    n.
+//	4190 safeguard v.    n.	*
+4191 safety n.
+4192 sail n.   v.
+4193 sailor n.
+4194 saint n.
+//	4195 sake n.
+4196 salad n.
+4197 salary n.
+4198 sale n.
+4199 salesman n.
+4200 salt n.   v.
+//	4201 salute v./n.		*
+//	4202 salvation n.		*
+4203 same a.   pron.   ad.
+4204 sample n.    v.
+4205 sanction n./v.   n.
+//	4206 sand n.   ;(pl)
+4207 sandwich n.     v.
+4208 sane a.
+//	4209 sarcastic a.		*
+//	4210 satellite n.		*
+//	4211 satire n.			*
+//	4212 satisfaction n.
+//	4213 satisfactory a.
+4214 satisfy v.
+//	4215 saturate vt.		*
+4216 Saturday n.
+//	4217 sauce n.			*
+//	4218 saucer n.			*
+//	4219 sausage n.			*
+//	4220 savage a.    n.
+4221 save v.
+4222 saving n.  (pl)
+//	4223 saw n.   v.
+4224 say vt.   vi.
+4225 scale n.
+4226 scan v.   n.
+//	4227 scandal n.			*
+4228 scar n.   v.
+//	4229 scarce a.			*
+//	4230 scarcely ad.		*
+//	4231 scare n.   v.		*
+//	4232 scarf n.			*
+//	4233 scatter v.			*
+4234 scene n.
+//	4235 scenery n.			*
+//	4236 scent n.   v.
+4237 schedule n.   v.
+//	4238 scheme n.   v.		*
+4239 scholar n.
+4240 scholarship n.
+4241 school n.
+4242 science n.
+4243 scientific a.
+4244 scientist n.
+4245 scissors n.
+//	4246 scold v.			*
+//	4247 scope n.			*
+4248 score n.   v.
+//	4249 scorn v./n.		*
+4250 scout n.   v.
+//	4251 scramble vi.		*
+//	4252 scrap n.   v.		*
+//	4253 scrape v.    n.	*
+4254 scratch v.   n.
+4255 scream v./n.
+4256 screen n.   v.
+//	4257 screw n.   v.		*
+//	4258 script n.			*
+//	4259 scrutiny n.		*
+//	4260 sculpture n.		*
+4261 sea n.
+//	4262 seal n.   v.		*
+//	4263 seam n.			*
+4264 search v./n.(for)
+//	4265 seaside n.
+4266 season n.
+4267 seat n.   v.
+4268 second a.   n.   v.
+4269 secondary a.
+4270 secret a.   n.
+//	4271 secretary n.		*
+4272 section n.
+//	4273 sector n.
+4274 secure a.(from,against)   v.
+4275 security n.
+4276 see vt.
+4277 seed n.   v.
+4278 seek v.(after,for)
+4279 seem v.
+//	4280 seemingly ad.		*
+//	4281 segment n.			*
+//	4282 segregate vt.		*
+//	4283 seize v.			*
+//	4284 seldom ad.			*
+4285 select v.    a.
+4286 selection n.
+4287 self n.
+4288 selfish adj.
+4289 sell v.
+//	4290 semester n.		*
+//	4291 semiconductor n.	*
+//	4292 seminar n.			*
+//	4293 senate n.
+//	4294 senator n.
+4295 send v.(sent,sent)
+4296 senior a.   n.
+//	4297 sensation n.		*
+4298 sense n.   v.
+//	4299 sensible a.
+4300 sensitive a.(to)
+4301 sentence n.    v.
+//	4302 sentiment n.		*
+4303 separate a.(from)
+4304 September n.
+4305 sequence n.
+4306 serial n.   a.
+4307 series n.
+4308 serious a.
+4309 servant n.
+//	4310 serve v.
+4311 service n.  v.
+//	4312 session n.			
+4313 set n.  v.
+//	4314 setback n.			*
+4315 setting n.
+4316 settle v.
+4317 settlement n.
+4318 seven num.
+//	4319 several a.
+//	4320 severe a.
+//	4321 sew v.				*
+4322 sex n.
+//	4323 shabby a.			*
+4324 shade n.   v.
+4325 shadow n.
+//	4326 shady a.
+//	4327 shaft n.			*
+4328 shake n./v.
+//	4329 shall aux.v.
+//	4330 shallow a.   n.	*
+//	4331 sham n./a.			*
+4332 shame n.   v.
+4333 shampoo n.  v.
+4334 shape n.  v.
+4335 share v.(with)  n.
+4336 shark n.
+4337 sharp a.  ad.
+//	4338 shatter n.  　v.	*
+//	4339 shave v.   n.		*
+4340 she pron.
+4341 shear v.
+//	4342 shed v.   n.
+4343 sheep n.
+//	4344 sheer a.			*
+//	4345 sheet n.			*
+//	4346 shelf n.			*
+//	4347 shell n.			*
+4348 shelter n.   v.
+//	4349 shepherd n.		*
+//	4350 shield n.   v.		*
+4351 shift v.
+//	4352 shilling n.
+4353 shine v.    n.
+4354 ship n.   v.
+//	4355 shipment n.
+4356 shirt n.  
+//	4357 shiver v./n.		*
+4358 shock n.  v.
+4359 shoe n.
+//	4360 shoot v.    n.		*
+4361 shop n.   v.
+4362 shopkeeper n.
+//	4363 shore n.
+4364 short a.  (of)   n.
+//	4365 shortage n.
+//	4366 shortcoming n.		*
+//	4367 shorthand n.
+//	4368 shortly ad.
+4369 shot n.
+4370 should aux.v.
+4371 shoulder n.   v.
+//	4372 shout v.   n.
+//	4373 shove vt.  vi.   n.*
+4374 show n.   v.
+4375 shower n.  v.
+//	4376 shrewd a.			*
+4377 shrink v.
+4378 shrug vt./n.
+4379 shut v.
+4380 shutter n.
+//	4381 shuttle n.   v.	*
+4382 shy a.  vi.
+4383 sick a.
+4384 side n.   vi.
+//	4385 sideways ad./a.	*
+//	4386 siege n.			*
+4387 sigh n.   v.
+4388 sight n.
+//	4389 sightseeing n.		*
+4390 sign n.   v.
+4391 signal n.    v.
+4392 signature n.
+4393 significance n.
+4394 significant a.
+//	4395 signify v.			*
+4396 silence n.   v.
+4397 silent a.
+//	4398 silicon n.
+4399 silk n.
+4400 silly a.
+4401 silver n.   v. 
+4402 similar a.(to)
+4403 simple a.
+//	4404 simplicity n.
+//	4405 simplify v.
+4406 simply ad.
+4407 simulate v.
+//	4408 simultaneous a.	*
+//	4409 sin n.   v.
+4410 since prep.  conj.   ad.
+//	4411 sincere a.			*
+4412 sing v.
+4413 single a.
+//	4414 singular a.
+//	4415 sink v.   n.		*
+//	4416 sip v.   n.
+4417 sir n.
+//	4418 siren n.
+4419 sister n.
+4420 sit vi.   vt.
+4421 site n.
+//	4422 situated a.		*
+//	4423 situation n.		*
+4424 six num    pron./a.
+4425 size n.
+4426 skate v.   n.
+4427 skeleton n.
+4428 skeptical a.     sceptical
+4429 sketch n.   v.
+//	4430 ski n.    v.		*
+4431 skill n.
+//	4432 skilled a.(in)		*
+4433 skillful a.(skilful)(in,at)
+//	4434 skim vt.  vi.
+4435 skin n.   v.
+4436 skip vi.   n.
+4437 skirt n.
+//	4438 skull n.
+4439 sky n.  
+4440 skyscraper n.
+//	4441 slack a.   n.
+//	4442 slam v.   n.
+//	4443 slap n./v.
+//	4444 slaughter n.   vt.	*
+4445 slave n.   v.
+4446 sleep v.(slept,slept)   n.
+//	4447 sleeve n.			*
+//	4448 slender a.
+4449 slice n.
+//	4450 slide v.    n.		*
+//	4451 slight a.
+//	4452 slim a.   v.		*
+//	4453 slip v.   n.
+//	4454 slipper n.			*
+//	4455 slippery a.		*
+//	4456 slit v.   n.		*
+//	4457 slogan n.			*
+//	4458 slope n.   v.		*
+//	4459 slot n.  vt.		*
+4460 slow a.   v.(down)
+4461 slum n.
+4462 sly a.
+4463 small a.
+4464 smart a.  v.
+4465 smash v./n.
+4466 smell n.   v.
+4467 smile n.   vi.
+//	4468 smog n.			*	
+4469 smoke n.   v.
+4470 smooth a.   v.(over)
+//	4471 smuggle v.			*
+4472 snack n.
+4473 snake n.
+//	4474 snap v.			*
+//	4475 snatch n./v.		*
+//	4476 sneak vi.   vt.	*
+//	4477 sneeze vi.   n.	*
+//	4478 sniff vi.			*
+4479 snow n.  vi.
+4480 snowstorm n.
+4481 so ad.    conj.
+//	4482 soak v.			*
+//	4483 soap n.			*
+//	4484 soar vi.
+//	4485 sob v./n.			*
+//	4486 sober a.			*
+4487 so-called a.
+4488 soccer n.
+4489 sociable a.
+4490 social a.
+4491 socialism n.
+4492 society n.
+4493 sociology n.
+4494 sock n.(pl)
+//	4495 soda n.			*				
+4496 sofa n.
+//	4497 soft a.
+4498 software n.
+4499 soil n.   v.
+4500 solar a.
+4501 soldier n.
+//	4502 sole a.   n.
+//	4503 solemn a.			*
+4504 solid a.   n.
+//	4505 solidarity n.
+//	4506 solitary a.		*
+4507 solo n.   a.&ad.
+4508 soluble a.
+4509 solution n.
+4510 solve v.
+4511 some a.    pron.
+4512 somebody pron.   n.
+4513 somehow ad.
+4514 someone pron.    (=somebody)
+4515 something pron.
+4516 sometime ad.  a.
+4517 sometimes ad.
+//	4518 somewhat pron.&ad.	*
+4519 somewhere ad.
+4520 son n.
+4521 song n.
+4522 soon ad.
+4523 sophisticated a.
+4524 sophomore 
+//	4525 sore a.   n. 		*
+//	4526 sorrow n.
+4527 sorry a. 
+4528 sort n.  v.
+4529 soul n.
+4530 sound n.
+4531 soup n.
+4532 sour a.
+4533 source n.
+4534 south n.    a.
+4535 southeast n./a.
+4536 southern a.
+4537 southwest n./a.
+//	4538 sovereign a.   n.	*
+//	4539 sow v.
+4540 space n.   v.
+4541 spacecraft n.
+4542 spaceship n.
+//	4543 spacious adj.		*
+4544 spade n.
+4545 span n.
+//	4546 spare a.    v.
+4547 spark n.   v.
+//	4548 sparkle v.			*
+4549 speak v.  (in)
+4550 speaker n.				*
+4551 spear n.
+4552 special a.
+4553 specialist n.
+//	4554 speciality n.(specialty)
+//	4555 specialize v.(specialise)(in)	*
+4556 species n.
+//	4557 specific a.
+//	4558 specification n.
+//	4559 specify v.
+//	4560 specimen n.		*
+//	4561 spectacle n.(pl)	*
+4562 spectacular a.  n.
+//	4563 spectator n.
+//	4564 spectrum n.		*
+4565 speculate vi.   vt.
+4566 speech n.
+4567 speed n.    v.
+4568 spell v.
+4569 spelling n.
+4570 spend v.
+//	4571 sphere n.			*
+//	4572 spicy a.			*
+4573 spider n.
+//	4574 spill v.   n.
+//	4575 spin v.   n.
+//	4576 spine n.			*
+//	4577 spiral a.    n.   v*
+4578 spirit n.
+4579 spiritual a.
+//	4580 spit v.    n.
+//	4581 spite n.
+//	4582 splash v.    n.
+//	4583 splendid a.		*
+//	4584 split v.   n.		*
+//	4585 spoil v.			*
+4586 spokesman n.
+//	4587 sponge n.
+4588 sponsor n.   v.
+//	4589 spontaneous a.
+//	4590 spoon n.			*
+4591 sport n.    vi.
+4592 sportsman n.
+//	4593 spot n.   v.
+//	4594 spouse n.			*
+//	4595 spray n.   v.		*
+4596 spread v./n.
+4597 spring n.   v.
+//	4598 sprinkle n.		*
+//	4599 sprout vi.   vt.  n*
+//	4600 spur n.   v.		*
+//	4601 spy n.   v.
+4602 square n.   a.  v.
+4603 squeeze v.   n.
+//	4604 squirrel n.		*
+//	4605 stab v./n.			*
+4606 stability n.
+4607 stable a.   n.
+//	4608 stack n.   v.		*
+4609 stadium n.
+//	4610 staff n.   v.		
+4611 stage n.
+//	4612 stagger vi.   n.	
+//	4613 stain n.   v.		*
+4614 stair n.(pl)
+//	4615 staircase n.(stairway)
+//	4616 stake n.			*
+//	4617 stale n.			*
+//	4618 stalk n.  vt.  vi.	*
+//	4619 stall n.   v.		*
+//	4620 stamp n.  v.		*
+4621 stand vi.   n.
+4622 standard n.   a.
+4623 standpoint n.
+//	4624 staple n.			*
+4625 star n.   v.
+//	4626 stare v.(at)
+4627 start v.    n.
+//	4628 startle v.
+4629 starve v.
+4630 state n.   v.
+4631 statement n.
+//	4632 statesman n.
+4633 static a.(statical)
+4634 station n.   v.
+//	4635 stationary a.		*
+//	4636 stationery n.		*
+//	4637 statistical a.		
+//	4638 statue n.
+//	4639 status n.
+//	4640 statute n.			*
+4641 stay vi.   vt.   n.
+//	4642 steady a.  v.		*
+//	4643 steak n.
+4644 steal v.
+//	4645 steam n.   v.
+//	4646 steamer n.
+//	4647 steel n.
+//	4648 steep a.  vt.		*
+//	4649 steer vt.  vi.		*
+//	4650 stem n.   vt.   vi.*
+4651 step n.  v.
+//	4652 stereo n.   n./a.	*
+//	4653 stereotype n.   vt.*
+//	4654 stern a.   n.		*
+//	4655 steward n.			*
+4656 stick n.   v.
+4657 sticky a.
+//	4658 stiff a.			*
+4659 still a.   ad.
+//	4660 stimulate v.		*
+4661 sting v./n.
+//	4662 stir v.			*
+//	4663 stitch n.   v.		*
+4664 stock n.   v.
+//	4665 stocking n.
+4666 stomach n.  vt.
+4667 stone n.
+//	4668 stool n.
+//	4669 stoop v.   n.		*
+4670 stop v.   n.
+4671 storage n.
+4672 store n.   v.
+//	4673 storey n.(story)	*
+4674 storm n.   v.
+4675 story n.   (=storey)
+//	4676 stove n.
+//	4677 straight a.   ad.
+//	4678 straightforward a. *
+//	4679 strain v.    n.
+4680 strange a.
+4681 stranger n.
+//	4682 strap n.   v.		*
+4683 strategy n.
+//	4684 straw n.	
+4685 strawberry n.
+//	4686 stream n.   v.
+//	4687 streamline a.   vt.
+//	4688 street n.
+4689 strength n.
+4690 strengthen v.
+//	4691 strenuous a.		*
+4692 stress n.  vt.
+//	4693 stretch v.   n.
+4694 strict a.(with)
+//	4695 stride vi.   n.	*
+//	4696 strife n.			*
+//	4697 strike n./vi.   vt.
+//	4698 striking a.		*
+4699 string n.  v.
+4700 strip v.  n.
+//	4701 stripe n.			
+//	4702 strive v.			*
+//	4703 stroke n.   v.		*
+//	4704 stroll n.&v.		*
+4705 strong a.
+4706 structure n.   v.
+4707 struggle n./v.
+//	4708 stubborn a.		*
+4709 student n.
+4710 studio n.
+4711 study vt.   vi.   n.
+//	4712 stuff n.   v.		*
+//	4713 stumble n.    vi.	*
+//	4714 stun vt.			*
+4715 stupid a.
+//	4716 sturdy a.			*
+4717 style n.
+4718 subject n.   a.   v.
+4719 subjective a.
+//	4720 submarine n.   a.	*
+//	4721 submerge v.		*
+4722 submit v.(to)  (to)
+//	4723 subordinate a.(to)	*
+4724 subscribe vi.(to)  vt.
+//	4725 subsequent a.		*
+//	4726 subsidy n.			*
+//	4727 substance n.		*
+//	4728 substantial a.		*
+//	4729 substitute n.   v.(for)		*
+//	4730 subtle a.			*
+4731 subtract v. (from)		
+//	4732 suburb n.
+4733 subway n.
+4734 succeed vi.   vt.
+4735 success n.
+4736 successful a.
+//	4737 succession n.	
+//	4738 successive a.
+//	4739 successor n.
+4740 such a.  ad.
+//	4741 suck v.&n.
+4742 sudden a.
+//	4743 sue v.				*
+4744 suffer v.(from)
+//	4745 suffice v.   vt.
+//	4746 sufficient a.(for)   
+4747 sugar n.   vt.
+4748 suggest v.
+4749 suggestion n.
+//	4750 suicide n.			
+4751 suit v.   n.
+4752 suitable a.(for)
+4753 suite n.
+//	4754 sulfur n.(sulphur)	*
+4755 sum n.   v.
+//	4756 summarize v.(summarise)
+4757 summary n.   a.
+4758 summer n.   a.
+//	4759 summit n.
+//	4760 summon v.			*
+4761 sun n.太阳;恒星;美国Sun公司
+4762 Sunday n.星期日
+4763 sunrise n.日出，拂晓;朝霞
+4764 sunset n.日落，傍晚;晚霞
+4765 sunshine n.日光,日照;晴天;
+4766 super a.极好的,超级的
+4767 superb a.极好的,杰出的;华丽的;
+4768 superficial a.表面的;肤浅的,浅薄的
+4769 superfluous a.多余的，过剩的，
+4770 superior a.优良的,卓越的;上级的 n.上级;长者;高手
+4771 superiority n.优越(性)，优势，优等;高傲，傲慢
+4772 supermarket n.超级市场
+4773 supersonic a.超音速的,超声波的 n.超声波，超声频
+4774 superstition n.迷信，迷信的观念习俗
+4775 supervise v.管理,监督
+4776 supper n.晚餐
+4777 supplement n.补遗;增刊;附录 v.增刊,补充
+4778 supply v.(with,to)供给,供应,补足 n.供应,供应量
+4779 support n./vt.支撑;支持;赡养;维持 n.支持者;支柱
+4780 suppose v.料想,猜想;假定;conj.假使...结果会怎样
+4781 suppress v.镇压,压制;抑制,忍住;查禁
+4782 supreme a.极度的,最重要的;至高的,最高的
+4783 sure a.肯定的;一定会…的;有信心的，有把握的
+4784 surface n.表面;外表 a.表面的，肤浅的
+4785 surge vi.汹涌;彭湃;蜂拥而至 n.巨浪;汹涌;彭湃
+4786 surgeon n.外科医生
+4787 surgery n.外科,外科学;手术室,诊疗室
+4788 surname n.姓
+4789 surpass vt.超过,胜过
+4790 surplus n.过剩,剩余;余款,余额 a.过剩的,剩余的
