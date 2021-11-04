@@ -4618,63 +4618,183 @@
 4818 switch n.  v.
 4819 sword n.
 4820 symbol n.
-4821 symmetry n.对称(性);匀称,整齐
-4822 sympathetic a.有同情心的;赞同的;n.交感神经
-4823 sympathize v.(sympathise)(with)同情;共鸣,同感;赞成
-4824 sympathy n.同情，同情心;赞同，同感;慰问
-4825 symphony n.交响乐,交响曲
-4826 symposium n.讨论会,专题报告会;专题论文集
-4827 symptom n.(疾病的)症状;(不好事情的)征兆,表征
-4828 syndrome n.综合病征;并存特性
-4829 synthesis n.(pl.syntheses)综合,合成
-4830 synthetic a.合成的,人造的;综合的
-4831 system n.系统，体系;制度;方法，方式，步聚
-4832 systematic a.(systematical)系统的,有组织的
-4833 table n.桌子;餐桌;工作台;表格 vt.搁置;提交讨论
-4834 tablet n.药片;碑,匾
-4835 tackle n.滑车;用具,器械 v.处理,解决;抱住,抓住
-4836 tactic n.(tactics)策略,战术
-4837 tag n.标签;鞋带;垂饰;vt.加标签于;附加vi.紧随
-4838 tail n.尾巴;尾部;跟踪者 vt.尾随，跟踪
-4839 tailor n.裁缝 v.缝制,剪裁
-4840 take v.拿取;吃;记录;取得;花费;捕获;认为
-4841 tale n.故事,传说
-4842 talent n.才能,天资;人才
-4843 talk n.谈话;聊天;讲话;演讲 v.说话;交谈
-4844 tall a.(身材)高的,高大的;夸大的,离谱的
-4845 tame a.驯服的,温顺的;沉闷的,乏味的 vt.驯服
-4846 tan n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑
-4847 tangle n.纠缠;缠结;混乱 v.(使)缠绕;变乱
-4848 tank n.罐,槽,箱;坦克 vt.储于槽中
-4849 tanker n.油船
-4850 tap n.塞子;水龙头; n./v.轻打,轻敲; vt.开发
-4851 tape n.带(子);录音带,磁带 v.录音;系,捆
-4852 tar n.柏油，焦油 vt.涂或浇柏油/焦油于
-4853 target n.目标,对象,靶子
-4854 tariff n.关税,税率;(旅馆,饭店等)价目表,收费表
-4855 task n.任务,作业,工作
-4856 taste v.品尝;(of)有…味道;体验 n.滋味;味觉
-4857 tax n.税(款),负担 v.对…征税,使负重担
-4858 taxi n.出租汽车v.[指飞机](使)滑行
-4859 tea n.茶(叶);午后茶点
-4860 teach vt.教，讲授;教导(训)vi.讲课，当教师
-4861 teacher n.教师(员)，老(导)师
-4862 team n.小队,小组 v.协同工作
-4863 tear n.(pl)眼泪 vt.撕裂;使…分裂 vi.破裂
-4864 tease v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄
-4865 technical a.技术(性)的，工艺的;专门性的，专业性的
-4866 technician n.技术员,技师,技工
-4867 technique n.技巧，手艺，技能;技术，工艺
-4868 technology n.科学技术;工业技术;应用科学
-4869 tedious a.乏味的,单调的,冗长的
-4870 teenager n.十几岁的青少年
-4871 telegram n.电报
-4872 telegraph n.电报机,电报 v.打电报,发电报
-4873 telephone n.电话,电话机 v.打电话
-4874 telescope n.望远镜 v.缩短，压缩
-4875 tell vt.告诉，讲述;告诫;吩咐，命令;辨/区别
-4876 temper n.脾气;韧度vt.调和，使缓和;使回火
-4877 temperament n.气质，性格，性情;资质
-4878 temperature n.温度，体温;热度，发烧
-4879 temple n.庙宇,神殿,寺;太阳穴
-4880 tempo n.节奏,行进速度;(音乐的)速度
+4821 symmetry n.
+4822 sympathetic a.  n.
+4823 sympathize v.(sympathise)(with)
+4824 sympathy n.
+//	4825 symphony n.		*
+//	4826 symposium n.		*
+//	4827 symptom n.			*
+//	4828 syndrome n.		*
+//	4829 synthesis n.(pl.syntheses)		*
+//	4830 synthetic a.		*
+4831 system n.
+//	4832 systematic a.(systematical)
+4833 table n.   vt.
+4834 tablet n.
+//	4835 tackle n.   v.		*
+//	4836 tactic n.(tactics)	*
+4837 tag n.  vt.  vi.
+4838 tail n.  vt.
+4839 tailor n.   v.
+4840 take v.
+//	4841 tale n.
+//	4842 talent n.
+4843 talk n.  v.
+4844 tall a.
+//	4845 tame a.  vt.
+//	4846 tan n./a.   vt.	*
+//	4847 tangle n.   v.		*
+4848 tank n.   vt.
+//	4849 tanker n.
+//	4850 tap n.   n./v.   vt*
+4851 tape n    v. 
+//	4852 tar n.   vt.		*
+4853 target n.
+//	4854 tariff n.			*
+4855 task n.
+4856 taste v.  (of)   n.
+4857 tax n.   v.
+4858 taxi n.  v.
+4859 tea n.
+4860 teach vt.  vi.
+4861 teacher n.
+4862 team n.   v.
+4863 tear n.(pl)   vt.  vi.
+//	4864 tease v.   n.		*
+4865 technical a.
+4866 technician n.
+//	4867 technique n.
+4868 technology n.
+//	4869 tedious a.
+4870 teenager n.
+4871 telegram n.
+//	4872 telegraph n.  v.
+4873 telephone n.   v.
+4874 telescope n.   v.
+4875 tell vt.
+//	4876 temper n.  vt.		*
+//	4877 temperament n.		*
+//	4878 temperature n.		*
+4879 temple n.
+//	4880 tempo n.			*
+4881 temporary a.
+4882 tempt v.
+4883 temptation n.
+4884 ten num.
+//	4885 tenant n.  vt.		*
+4886 tend v.
+4887 tendency n.
+//	4888 tender a.  v.
+4889 tennis n.
+4890 tense n.  v. a.
+4891 tension n.
+//	4892 tent n.
+//	4893 tentative a.		*
+//	4894 term n.
+4895 terminal a.  n.
+//	4896 terminate vi.
+4897 terrible a.
+//	4898 terrific a.
+4899 terrify v.
+//	4900 territory n.		*
+//	4901 terror n.
+4902 test n./vt.
+//	4903 testify v.  (to)	
+//	4904 testimony n.		*
+4905 text n.
+4906 textbook n.
+//	4907 textile n.   a.
+//	4908 texture n.
+4909 than conj.
+4910 thank vt.
+4911 Thanksgiving n.
+4912 that a./pron.   ad.  conj.
+4913 the art.
+4914 theater n.(theatre)
+4915 theft n.
+4916 their pron..[they的所有格]
+4917 theirs pron.[they的物主代词]
+4918 them pron.
+4919 theme n.
+4920 themselves pron.
+4921 then ad.
+//	4922 theoretical a.
+4923 theory n.
+//	4924 therapy n.			*
+4925 there ad.
+//	4926 thereafter ad.
+//	4927 thereby ad.		
+4928 therefore ad.   conj.
+//	4929 thermal a.			*
+//	4930 thermometer n.		*
+4931 these pron.&a.
+//	4932 thesis n.(pl.theses) 
+4933 they 
+//	4934 thick a.   ad.		*
+//	4935 thief n.(thieves)	*
+//	4936 thigh n.			*
+4937 thin a.   v.
+4938 thing n.
+4939 think v.
+4940 third num.
+4941 thirst n.  (for)
+4942 thirsty a.  (for)
+4943 thirteen num./a.   pron.
+4944 thirty num.
+4945 this pron.   a.   ad.
+//	4946 thorn n.
+//	4947 thorough a.		*
+4948 those pron./a.
+//	4949 though ad.   conj.	*
+//	4950 thought n.			*
+//	4951 thoughtful a.		*
+4952 thousand num./n./a.  [pl.]
+//	4953 thread n.   v.
+4954 threat n.
+4955 threaten v.
+4956 three num.  pron./a.
+//	4957 threshold n.		*
+//	4958 thrift a.			*
+//	4959 thrill n.   v.		*
+4960 thrive v.
+4961 throat n.
+//	4962 throne n.			*
+//	4963 through prep./ad.  *
+//	4964 throughout prep.   *
+4965 throw vt.  n.
+//	4966 thrust vt.   n.   vi.
+4967 thumb n.   v.
+4968 thunder n.   v.
+4969 Thursday n.
+4970 thus ad.
+4971 tick n.滴答声;勾号 v.滴答响;打勾号于
+4972 ticket n.票,入场券;票签;(交通违章)罚款传票
+4973 tide n.潮,潮汐;潮流,趋势
+4974 tidy a.整洁的,整齐的 v.整理,收拾
+4975 tie n.领带;联系,关系,纽带;束缚 v.扎,系,捆
+4976 tiger n.虎;老虎
+4977 tight a.紧的;紧身的,装紧的;密封的 ad.紧紧地
+4978 tile n.瓦片,瓷砖 vt.铺瓦于，贴砖于
+4979 till prep.直到，直到…为止，与until意思相同
+4980 tilt v.(使)倾侧;(使)倾斜 n.倾侧;倾斜
+4981 timber n.木材,木料
+4982 time n.时间，时刻;次，回;时代，时期;倍，乘
+4983 timely a.及时的,适时的
+4984 timid a.胆怯的,怯懦的
+4985 tin n.罐头;锡 a.锡制的 vt.镀锡于
+4986 tiny a.极小的,微小的
+4987 tip n.尖端;末端;小费 n./v.轻击;倾斜;给小费
+4988 tire v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎
+4989 tired a.疲劳的;厌倦的
+4990 tiresome a.使人厌倦的,讨厌的
+4991 tissue n.织物,薄绢,纸巾;(动,植物的)组织
+4992 title n.书名,标题;头衔,称号
+4993 to prep.(表示方向)到;向;(表示间接关系)给.
+4994 toast n.烤面包,吐司;祝酒(词)v.烘,烤;(向…)祝酒
+4995 tobacco n.烟草,烟叶
+4996 today ad.在今天;现今，在当代 n.今天;现在
+4997 toe n.脚趾,足尖
+4998 together ad.共同,一起;合起来,集拢地
+4999 toilet n.厕所,盥洗室
+5000 token n.表示;标志;记号;代用硬币 a.象征性的
