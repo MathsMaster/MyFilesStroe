@@ -4768,33 +4768,63 @@
 4968 thunder n.   v.
 4969 Thursday n.
 4970 thus ad.
-4971 tick n.滴答声;勾号 v.滴答响;打勾号于
-4972 ticket n.票,入场券;票签;(交通违章)罚款传票
-4973 tide n.潮,潮汐;潮流,趋势
-4974 tidy a.整洁的,整齐的 v.整理,收拾
-4975 tie n.领带;联系,关系,纽带;束缚 v.扎,系,捆
-4976 tiger n.虎;老虎
-4977 tight a.紧的;紧身的,装紧的;密封的 ad.紧紧地
-4978 tile n.瓦片,瓷砖 vt.铺瓦于，贴砖于
-4979 till prep.直到，直到…为止，与until意思相同
-4980 tilt v.(使)倾侧;(使)倾斜 n.倾侧;倾斜
-4981 timber n.木材,木料
-4982 time n.时间，时刻;次，回;时代，时期;倍，乘
-4983 timely a.及时的,适时的
-4984 timid a.胆怯的,怯懦的
-4985 tin n.罐头;锡 a.锡制的 vt.镀锡于
-4986 tiny a.极小的,微小的
-4987 tip n.尖端;末端;小费 n./v.轻击;倾斜;给小费
-4988 tire v.(使)疲倦,(使)厌倦 n.(=tyre)轮胎,车胎
-4989 tired a.疲劳的;厌倦的
-4990 tiresome a.使人厌倦的,讨厌的
-4991 tissue n.织物,薄绢,纸巾;(动,植物的)组织
-4992 title n.书名,标题;头衔,称号
-4993 to prep.(表示方向)到;向;(表示间接关系)给.
-4994 toast n.烤面包,吐司;祝酒(词)v.烘,烤;(向…)祝酒
-4995 tobacco n.烟草,烟叶
-4996 today ad.在今天;现今，在当代 n.今天;现在
-4997 toe n.脚趾,足尖
-4998 together ad.共同,一起;合起来,集拢地
-4999 toilet n.厕所,盥洗室
-5000 token n.表示;标志;记号;代用硬币 a.象征性的
+//	4971 tick n.  v.
+4972 ticket n.
+4973 tide n.
+4974 tidy a.   v.
+4975 tie n.  v.
+4976 tiger n.
+//	4977 tight a  ad.
+//	4978 tile n.   vt.		*
+4979 till prep.  与until意思相同
+//	4980 tilt v.   n.		*
+//	4981 timber n.			*
+4982 time n.
+4983 timely a.
+//	4984 timid a.			*
+//	4985 tin n.   a.  vt.	*
+//	4986 tiny a.			*
+//	4987 tip n.   n./v.		*
+//	4988 tire v.  n.(=tyre)	*
+//	4989 tired a.			*
+//	4990 tiresome a.		*
+//	4991 tissue n.			*
+4992 title n.
+4993 to prep.
+4994 toast n.  v.			
+4995 tobacco n.
+4996 today ad.   n.
+//	4997 toe n.				*
+4998 together ad.
+4999 toilet n.
+5000 token n.   a.
+5001 tolerance n.宽容;容忍,忍受;耐药力;公差
+5002 tolerant a.容忍的,宽容的;有耐药力的
+5003 tolerate vt.容忍,默许;对(药物、毒品等)有耐力
+5004 toll n.(道路、桥等的)通行费;牺牲;死伤人数
+5005 tomato n.西红柿
+5006 tomb n.坟,冢
+5007 tomorrow n.明天;来日，未来 ad.在明天，在明日
+5008 ton n.吨;(pl)大量,许多
+5009 tone n.音调,音色;风气,气氛;腔调,语气;色调
+5010 tongue n.舌;语言
+5011 tonight ad.在今晚;在今夜 n.今晚，今夜
+5012 too ad.也，还;太，过于;很，非常
+5013 tool n.工具，用具;方法，手段
+5014 tooth n.(pl.teeth)牙齿;齿状物;
+5015 top n.顶，顶端;首位;顶点 a.最高的;顶上的
+5016 topic n.话题,主题,题目
+5017 torch n.手电筒;火炬,火把
+5018 torment n.折磨;令人痛苦的东西(人)vt.折磨;纠缠
+5019 torrent n.激流，洪流;爆发，(话语等的)连发
+5020 torture v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦
+5021 toss vt.向上掷/扔;摇摆，颠簸 n.投，扔;摇动
+5022 total n.总数,合计 a.总的,全部的 v.合计,总数达
+5023 touch v.触,碰,摸;感动;涉及 n.触动,碰到;少许
+5024 tough a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的
+5025 tour n.旅游，旅行;巡回演出/比赛 v.旅游
+5026 tourist n.旅游者，观光客;巡回比赛的运动员
+5027 tow vt.(用绳、链等)拖(车、船等) n.拖,牵引
+5028 toward prep.(towards)朝，向;将近;对于;为了
+5029 towel n.毛巾 vt.用毛巾擦或擦干
+5030 tower n.塔 v.高耸
