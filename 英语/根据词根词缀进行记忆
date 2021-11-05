@@ -4798,33 +4798,183 @@
 4998 together ad.
 4999 toilet n.
 5000 token n.   a.
-5001 tolerance n.宽容;容忍,忍受;耐药力;公差
-5002 tolerant a.容忍的,宽容的;有耐药力的
-5003 tolerate vt.容忍,默许;对(药物、毒品等)有耐力
-5004 toll n.(道路、桥等的)通行费;牺牲;死伤人数
-5005 tomato n.西红柿
-5006 tomb n.坟,冢
-5007 tomorrow n.明天;来日，未来 ad.在明天，在明日
-5008 ton n.吨;(pl)大量,许多
-5009 tone n.音调,音色;风气,气氛;腔调,语气;色调
-5010 tongue n.舌;语言
-5011 tonight ad.在今晚;在今夜 n.今晚，今夜
-5012 too ad.也，还;太，过于;很，非常
-5013 tool n.工具，用具;方法，手段
-5014 tooth n.(pl.teeth)牙齿;齿状物;
-5015 top n.顶，顶端;首位;顶点 a.最高的;顶上的
-5016 topic n.话题,主题,题目
-5017 torch n.手电筒;火炬,火把
-5018 torment n.折磨;令人痛苦的东西(人)vt.折磨;纠缠
-5019 torrent n.激流，洪流;爆发，(话语等的)连发
-5020 torture v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦
-5021 toss vt.向上掷/扔;摇摆，颠簸 n.投，扔;摇动
-5022 total n.总数,合计 a.总的,全部的 v.合计,总数达
-5023 touch v.触,碰,摸;感动;涉及 n.触动,碰到;少许
-5024 tough a.坚韧的,棘手的;强健的,吃苦耐劳的;粗暴的
-5025 tour n.旅游，旅行;巡回演出/比赛 v.旅游
-5026 tourist n.旅游者，观光客;巡回比赛的运动员
-5027 tow vt.(用绳、链等)拖(车、船等) n.拖,牵引
-5028 toward prep.(towards)朝，向;将近;对于;为了
-5029 towel n.毛巾 vt.用毛巾擦或擦干
-5030 tower n.塔 v.高耸
+5001 tolerance n.
+5002 tolerant a.
+5003 tolerate vt.
+//	5004 toll n.			*
+5005 tomato n.
+//	5006 tomb n.
+5007 tomorrow n. ad.
+5008 ton n.
+5009 tone n.
+//	5010 tongue n.			
+//	5011 tonight ad.   n.
+5012 too ad.
+5013 tool n.
+5014 tooth n.(pl.teeth)
+5015 top n.   a.
+5016 topic n.
+//	5017 torch n.			*
+//	5018 torment n.  vt.	*
+//	5019 torrent n.			*
+//	5020 torture v.   n.	*
+//	5021 toss vt.   n.		*
+5022 total n.   a.   v.
+5023 touch v.   n.
+//	5024 tough a.			*
+5025 tour n.   v.
+5026 tourist n.
+//	5027 tow vt.   n.		*
+5028 toward prep.(towards)
+//	5029 towel n.  vt.		*
+5030 tower n. v.
+5031 town n.
+//	5082 toxic a.
+5083 toy n.   vi.(with)
+5084 trace n.   v.
+5085 track n.  v.
+5086 tractor n.
+5087 trade n.  v.
+5088 trademark n.   vt.
+5089 tradition n.
+5090 traffic n.
+5091 tragedy n.
+//	5092 tragic a.			*
+//	5093 trail n.   v.		*
+5094 train n    v.
+5095 training n.
+//	5096 trait n.			*
+//	5097 traitor n.			*
+//	5098 tram n.			*
+//	5099 tramp n./v   v.  n.*
+//	5100 transaction n.   	*
+//	5101 transcend vt.		*
+5102 transfer vt./n.
+5103 transform vt.
+//	5104 transient a.	
+//	5105 transistor n.		
+//	5106 transition n.		*
+5107 translate v.
+5108 translation n.
+//	5109 transmission n.	*
+//	5110 transmit vt.   vi.
+5111 transparent a.
+//	5112 transplant n./v.	*
+5113 transport v.  n.
+//	5114 trap n.   vt.   vi.*
+5115 trash n.
+5116 travel n.   v.
+//	5117 tray n.
+//	5118 treason n.
+5119 treasure n.   v.
+5120 treat v.   n.
+//	5121 treaty n.			*
+5122 tree n.   vi.
+//	5123 tremble n.   v.	*
+//	5124 tremendous a.		*
+//	5125 trench n.&v.		*
+//	5126 trend n.   vi.
+5127 trial n.
+5128 triangle n.
+//	5129 tribe n.			*
+//	5130 tribute n.			*
+5131 trick n.   vt.
+5132 ugly a.
+//	5133 ultimate a.
+//	5134 ultraviolet a./n.	*
+5135 umbrella n.
+//	5136 unanimous a.		*
+5137 uncle n.
+5138 uncover v.
+5139 under prep.   ad.
+5140 underestimate vt.
+5141 undergo vt.
+5142 undergraduate n.
+5143 underground a.   n.   ad.
+//	5144 underlie vt.		*
+5145 underline vt.
+//	5146 underlying a.		*
+5147 undermine v.
+//	5148 underneath prep. ad*
+5149 understand v.
+5150 understanding n.  a.
+//	5151 undertake v.		*
+5152 undo v.
+5153 undoubtedly ad.
+//	5154 uneasy a.
+5155 unemployment n.
+5156 unexpected a.
+//	5157 unfold vt.   vi.	*
+5158 unfortunately ad.
+5159 uniform n.   a.
+5160 unify v.
+5161 union n.
+5162 unique a.
+5163 unit n.
+5164 unite vi.  vt.
+//	5165 unity n.			*
+5166 universal a.
+5167 universe n.
+5168 university n.
+5169 unless conj.   prep
+//	5170 unlike a.   prep.
+//	5171 unlikely a.
+5172 unload vi.   vt.
+5173 until conj.&prep.
+5174 unusual a.
+5175 up ad.   prep.
+5176 update v.
+5177 upgrade v.
+//	5178 uphold vt.
+//	5179 upon prep.  [=on]	*
+//	5180 upper a.
+//	5181 upright a.   ad.	*
+//	5182 uproar n.			*
+5183 upset v.  a.
+5184 upstairs ad.   ad.
+//	5185 up-to-date a.		*
+//	5186 upward a.   ad.	*
+//	5187 urban a.			*
+5188 urge vt.   n.
+//	5189 urgent a.			*
+5190 us pron.  (we的宾格形式)
+//	5191 usage n.			*
+5192 use n.   vt.
+5193 used a.
+5194 useful a.
+5195 usual a.
+5196 usually ad.
+//	5197 utilize vt.		*
+//	5198 utmost a.   n.
+//	5199 utter v.   a.		*
+//	5200 vacant a.			*
+5201 vacation n.休假,假期
+5202 vacuum n.真空,真空吸尘器
+5203 vague a.不明确的,含糊的,暧昧的
+5204 vain a.徒劳的,徒然的;自负的,爱虚荣的
+5205 valid a.有效的;有根据的;正当的
+5206 valley n.(山)谷;流域
+5207 valuable a.贵重的,有价值的 n.(pl)贵重物品,财宝
+5208 value n.价格;价值;实用性 v.评价,估价;尊重
+5209 valve n.阀;(英)电子管,真空管;(心脏的)瓣膜
+5210 van n.有篷汽车;有篷货运车厢
+5211 vanish vi.突然不见;消失
+5212 vanity n.虚荣心,浮华
+5213 vapour n.(vapor)汽，(水)蒸气
+5214 variable a.易变的;可变的;变量的 n.变量
+5215 variation n.变化,变动;变种,变异
+5216 variety n.种种,多种多样;种类,品种
+5217 various a.各种各样的;不同的
+5218 vary vt.改变,变化;使多样化
+5219 vase n.花瓶,瓶
+5220 vast a.巨大的,辽阔的,大量的;巨额的
+5221 vegetable n.蔬菜,植物 a.植物的,蔬菜的
+5222 vegetarian n.素食主义者
+5223 vegetation n.植物,草木
+5224 vehicle n.车辆,交通工具;媒介,载体
+5225 veil n.面纱,遮蔽物 v.用面纱掩盖,掩饰
+5226 vein n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络
+5227 velocity n.速度,速率
+5228 velvet n.丝绒,天鹅绒 a.丝绒制的,柔软的
+5229 ventilate vt.使通风;给…装通风设备
+5230 venture v.冒险,拼;大胆表示 n.冒险事业,拼,闯
