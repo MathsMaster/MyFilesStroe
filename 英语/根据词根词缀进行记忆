@@ -4948,33 +4948,213 @@
 //	5198 utmost a.   n.
 //	5199 utter v.   a.		*
 //	5200 vacant a.			*
-5201 vacation n.休假,假期
-5202 vacuum n.真空,真空吸尘器
-5203 vague a.不明确的,含糊的,暧昧的
-5204 vain a.徒劳的,徒然的;自负的,爱虚荣的
-5205 valid a.有效的;有根据的;正当的
-5206 valley n.(山)谷;流域
-5207 valuable a.贵重的,有价值的 n.(pl)贵重物品,财宝
-5208 value n.价格;价值;实用性 v.评价,估价;尊重
-5209 valve n.阀;(英)电子管,真空管;(心脏的)瓣膜
-5210 van n.有篷汽车;有篷货运车厢
-5211 vanish vi.突然不见;消失
-5212 vanity n.虚荣心,浮华
-5213 vapour n.(vapor)汽，(水)蒸气
-5214 variable a.易变的;可变的;变量的 n.变量
-5215 variation n.变化,变动;变种,变异
-5216 variety n.种种,多种多样;种类,品种
-5217 various a.各种各样的;不同的
-5218 vary vt.改变,变化;使多样化
-5219 vase n.花瓶,瓶
-5220 vast a.巨大的,辽阔的,大量的;巨额的
-5221 vegetable n.蔬菜,植物 a.植物的,蔬菜的
-5222 vegetarian n.素食主义者
-5223 vegetation n.植物,草木
-5224 vehicle n.车辆,交通工具;媒介,载体
-5225 veil n.面纱,遮蔽物 v.用面纱掩盖,掩饰
-5226 vein n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络
-5227 velocity n.速度,速率
-5228 velvet n.丝绒,天鹅绒 a.丝绒制的,柔软的
-5229 ventilate vt.使通风;给…装通风设备
-5230 venture v.冒险,拼;大胆表示 n.冒险事业,拼,闯
+5201 vacation n.
+5202 vacuum n.
+5203 vague a.
+//	5204 vain a.
+//	5205 valid a.			*
+5206 valley n.
+5207 valuable a.  n.(pl)
+5208 value n.   v.
+//	5209 valve n.			*
+5210 van n.
+//	5211 vanish vi.			*
+//	5212 vanity n.			*
+//	5213 vapour n.(vapor)   *
+5214 variable a.   n.
+//	5215 variation n.
+5216 variety n.
+5217 various a.
+//	5218 vary vt.
+//	5219 vase n.			*
+5220 vast a.
+5221 vegetable n.   a.
+5222 vegetarian n.
+5223 vegetation n.
+5224 vehicle n.
+//	5225 veil n.   v.		*
+//	5226 vein n.   vt.		*
+//	5227 velocity n.		*
+//	5228 velvet n.   a.		*
+//	5229 ventilate vt.		*
+5230 venture v.  n.
+5231 verb n.
+5232 verbal a.
+//	5233 verdict n.			*
+5234 verge n.   v.  
+5235 verify vt.
+//	5236 versatile a.		*
+//	5237 verse n.			*
+5238 version n.
+//	5239 versus prep.(vs)	*
+5240 vertical a.   n.
+5241 very ad.   a.
+//	5242 vessel n.			*
+//	5243 vest n.			*
+//	5244 veteran n.			*
+//	5245 veto n./v.			*
+//	5246 via prep.			*
+//	5247 vibrate v.			*
+//	5248 vice n.			*
+//	5249 vicinity n.		*
+//	5250 vicious a.
+5251 victim n.
+5252 victory n.
+5253 video n.   a.
+5254 view n.   vt.
+5255 viewpoint n.
+//	5256 vigorous a.		*
+5257 village n.
+//	5258 vinegar n.
+5259 violate vt.
+5260 violence n.
+5261 violent a.
+//	5262 violet n.   a.
+5263 violin n
+//	5264 virgin n.   a.
+//	5265 virtual a.
+//	5266 virtue n.			*
+5267 virus n.
+5268 visa n.   vt.
+5269 visible a.
+5270 vision n.
+5271 visit n.   v.
+5272 visitor n.
+//	5273 visual a.
+//	5274 vital a.
+5275 vitamin n.
+5276 vivid a.
+5277 vocabulary n.
+//	5278 vocal a.  n.		*
+//	5279 vocation n.
+5280 voice n.
+//	5281 void a.
+//	5282 volcano n.
+5283 volleyball n.
+//	5284 volt n.		
+//	5285 voltage n.
+5286 volume n.
+5287 voluntary a.
+5288 volunteer n./v.
+5289 vote n.   v.
+//	5290 vowel n.			*
+//	5291 voyage n.
+//	5292 vulgar a.			*
+//	5293 vulnerable a.		*
+//	5294 wage n.   vt. 		*
+//	5295 wagon n.			*
+5296 waist n.
+5297 wait v.(for)  (on)    n. 
+5298 waiter n.
+5299 waitress n.
+5300 wake v.
+5301 waken v.
+5302 walk v.   n.
+5303 wall n.  vt.
+5304 wallet n.
+5305 wander v.
+5306 want vt.   n.
+5307 war n.   vi.
+//	5308 ward n.   vt.		*
+//	5309 wardrobe n.		*
+5310 warehouse n.
+//	5311 warfare n.
+5312 warm a.   v.
+//	5313 warmth n.
+5314 warn vt.   vi.
+//	5315 warrant n.   v.	*
+5316 wash n.   vt.   vi.
+5317 waste v.   a.   n.
+5318 watch v.  (for)   n.
+5319 watch v.   n.
+5320 water n.    vt.   vi.
+5321 waterfall n.
+5322 waterproof a.
+5323 watt n.
+5324 wave n.   v.
+5325 wax n.   v.
+5326 way n.
+5327 we pron.
+//	5328 weak a.
+5329 wealth n.
+5330 wealthy a.  n.
+5331 weapon n.
+5332 wear v.   n.
+//	5333 weary a.  v.		*
+5334 weather n.
+//	5335 weave v.			*
+5336 web n.
+5337 wedding n.
+//	5338 wedge n.   vt.		*
+5339 Wednesday n.
+5340 weed n.  v.
+5341 week n.
+5342 weekday n.
+5343 weekend n.
+5344 weekly a.  ad.   n.
+//	5345 weep v.   n.		*
+5346 weigh v.
+5347 weight n.
+//	5348 weird a.			*
+5349 welcome int.  a.  vt./n.
+5350 weld v.   n.
+5351 welfare n.
+5352 well ad.  int.
+5353 well-known a.
+5354 west n./a.   ad.
+5355 western a.
+5356 wet a.   v.
+5357 whale n.
+5358 what pron.   a.
+5359 whatever pron.   a.
+//	5360 whatsoever ad.		*
+//	5361 wheat n.			*
+5362 wheel n.
+5363 when ad./pron.   conj.
+5364 whenever conj.
+5365 where ad.   conj./pron.   conj.
+//	5366 whereas conj.	
+5367 wherever conj.  ad.
+5368 whether conj.
+5369 which a./pron.
+5370 whichever pron./a.
+//	5371 while conj.   n.	*
+//	5372 whip n.   v.		*
+//	5373 whirl v.   n.		*
+5374 whisky n.
+//	5375 whisper v.   n.	*
+//	5376 whistle n.  v.
+5377 white a.   n.
+5378 who pron.
+5379 whoever pron.[引导名词从句]
+5380 whole n.   a.
+5381 wholesome a.卫生的;有益的;健康的,有益健康的
+5382 wholly ad.完全地,全部,一概
+5383 whom pron.谁;哪个人(who的宾格)
+5384 whose pron.谁的;哪(个)人的，那些(人)的
+5385 why ad./conj.为什么;…的理由 int.咳，哎呀
+5386 wicked a.坏的;邪恶的;不道德的;恶劣的;淘气的
+5387 wide a.宽阔的;睁大的;远离的 ad.广阔地;偏差地
+5388 widespread a.分布广泛的,普遍的
+5389 widow n.寡妇
+5390 width n.宽度;宽阔,广阔
+5391 wife n.妻子，夫人，太太
+5392 wild a.野性的,野生的;野蛮的;狂热的;荒芜的
+5393 will aux./v. 将;会;愿意 n.意志;决心;愿望
+5394 willing a.愿意的，乐意的，心甘情愿的
+5395 win vi.获胜，赢 vt.赢得;在…中获胜 n.胜利
+5396 wind n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行
+5397 window n.窗,窗口
+5398 wine n.葡萄酒,果酒
+5399 wing n.翅,翅膀;翼,机翼;派别 vt.装以翼
+5400 wink v.(使)眨眼;眨眼示意 n.眨眼;小睡，打盹
+5401 winter n.冬季，冬天
+5402 wipe v./n.擦,揩,抹
+5403 wire n.金属线,电线;电报,电信 v.发电报(给)
+5404 wisdom n.智慧,明智;名言,格言
+5405 wise a.有智慧的,聪明的
+5406 wish v.希望;但愿;祝 n.愿望，希望;[pl.]祝愿
+5407 wit n.智力,才智,智慧
+5408 witch n.女巫, 巫婆，巫师
+5409 with prep.跟…一起;用;具有;关于;因;随着
+5410 withdraw v.收回,撤消;缩回,退出;提取(钱)
