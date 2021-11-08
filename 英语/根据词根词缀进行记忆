@@ -5128,33 +5128,390 @@
 5378 who pron.
 5379 whoever pron.[引导名词从句]
 5380 whole n.   a.
-5381 wholesome a.卫生的;有益的;健康的,有益健康的
-5382 wholly ad.完全地,全部,一概
-5383 whom pron.谁;哪个人(who的宾格)
-5384 whose pron.谁的;哪(个)人的，那些(人)的
-5385 why ad./conj.为什么;…的理由 int.咳，哎呀
-5386 wicked a.坏的;邪恶的;不道德的;恶劣的;淘气的
-5387 wide a.宽阔的;睁大的;远离的 ad.广阔地;偏差地
-5388 widespread a.分布广泛的,普遍的
-5389 widow n.寡妇
-5390 width n.宽度;宽阔,广阔
-5391 wife n.妻子，夫人，太太
-5392 wild a.野性的,野生的;野蛮的;狂热的;荒芜的
-5393 will aux./v. 将;会;愿意 n.意志;决心;愿望
-5394 willing a.愿意的，乐意的，心甘情愿的
-5395 win vi.获胜，赢 vt.赢得;在…中获胜 n.胜利
-5396 wind n.风;气息 v.转动;缠绕;上发条,;蜿蜒而行
-5397 window n.窗,窗口
-5398 wine n.葡萄酒,果酒
-5399 wing n.翅,翅膀;翼,机翼;派别 vt.装以翼
-5400 wink v.(使)眨眼;眨眼示意 n.眨眼;小睡，打盹
-5401 winter n.冬季，冬天
-5402 wipe v./n.擦,揩,抹
-5403 wire n.金属线,电线;电报,电信 v.发电报(给)
-5404 wisdom n.智慧,明智;名言,格言
-5405 wise a.有智慧的,聪明的
-5406 wish v.希望;但愿;祝 n.愿望，希望;[pl.]祝愿
-5407 wit n.智力,才智,智慧
-5408 witch n.女巫, 巫婆，巫师
-5409 with prep.跟…一起;用;具有;关于;因;随着
-5410 withdraw v.收回,撤消;缩回,退出;提取(钱)
+//	5381 wholesome a.
+//	5382 wholly ad.			*
+5383 whom pron.
+5384 whose pron.
+5385 why ad./conj.   int.
+//	5386 wicked a.			
+//	5387 wide a.   ad.		*
+5388 widespread a.			
+5389 widow n.
+5390 width n.
+5391 wife n.
+5392 wild a.
+5393 will aux./v.    n.
+5394 willing a.
+5395 win vi.   vt.    n.
+5396 wind n.   v.
+5397 window n.
+//	5398 wine n.			*
+//	5399 wing n.   vt.		*
+//	5400 wink v.   n.		*
+5401 winter n.
+//	5402 wipe v./n.			*
+5403 wire n.   v.
+5404 wisdom n.
+5405 wise a.
+//	5406 wish v.   n.		*
+//	5407 wit n.				*
+//	5408 witch n.			*
+5409 with prep.
+5410 withdraw v.
+//	5411 withhold vt.   vi.	
+5412 within prep.
+5413 without prep.
+5414 withstand vt.
+5415 witness n.  v.
+5416 wolf n.
+5417 woman n.(pl)women
+//	5418 wonder n.   v.(at)
+5419 wonderful a.
+5420 wood n.  (pl)
+//	5421 wooden a.
+//	5422 wool n.
+5423 word n.
+5424 work n.   v.
+5425 worker n.
+5426 workshop n.
+5427 world n.
+5428 worldwide a.  ad.
+5429 worm n.
+5430 worry v.  (about)   n.
+5431 worse a./ad.
+//	5432 worship n.  v.		*
+//	5433 worst a./ad.
+5434 worth n.   a.
+5435 worthwhile a.
+//	5436 worthy a.(of)		*
+5437 would aux./v.  
+5438 wound n.  v.
+//	5439 wrap v.   n.
+5440 wreath n.
+//	5441 wreck n.  v.		*
+//	5442 wrench v.   n.		*
+//	5443 wretched a.		*
+5444 wrinkle n.  v.
+//	5445 wrist n.
+5446 write v.
+5447 writing n.
+5448 wrong a   ad.   n.   v
+5449 X-ray n.
+5450 yard n.
+//	5451 yawn v.  n.		*
+5452 year n.   a./ad.
+5453 yearly a.   ad.
+//	5454 yell vi.   vt.   n.*
+5455 yellow a.   n.
+5456 yes ad.
+5457 yesterday n.&ad.
+//	5458 yet ad.  conj.
+//	5459 yield v.  (to)   n.
+5460 you pron.
+5461 young a.   n.
+5462 youngster n.
+5463 your pron.[you的所有格]
+5464 yours pron.[you的物主代词]
+5465 yourself pron.[反身代词]
+//	5466 youth n.
+//	5467 zeal n.			*
+//	5468 zebra n.
+5469 zero n.  num.
+//	5470 zigzag n./a.  v.
+5471 zinc n.
+//	5472 zip v.
+5473 zone n.   v.
+5474 zoo n.
+//	5475 zoom vi.   n.		*
+5476 Afghanistan 阿富汗
+5477 algeria 阿尔及利亚
+5478 argentina 阿根廷
+5479 austria 奥地利
+5480 Belgium 比利时
+5481 Burma 缅甸
+5482 Myanmar 缅甸
+5483 Colombia 哥伦比亚
+5484 Cuba  古巴
+5485 Denmark  丹麦
+5486 Finland 芬兰
+5487 Hungary  匈牙利
+5488 Indonesia 印度尼西亚
+5489 Iran 伊朗
+5490 Iraq 伊拉克
+5491 Jordan  约旦
+5492 Kenya 肯尼亚
+5493 korea 韩国，朝鲜
+5494 Vietnam 越南
+5495 Kuwait 科威特
+5496 Lebanon 黎巴嫩
+5497 Luxembourg 卢森堡
+5498 Malaysia 马来西亚
+5499 Mexico 墨西哥
+5500 Norway 挪威
+5501 Pakistan 巴基斯坦
+5502 Panama 巴拿马
+5503 Philippines 非鲁宾
+5504 Poland 波兰
+5505 Singapore 新加坡
+5506 Thailand 泰国
+5507 Turkey 土耳其
+
+
+
+a lack of 			缺乏
+adhere to = stick to/with = cling to 	粘着;坚持
+act as 				扮演/充当...角色
+aim at 				目标在于...，瞄准，针对
+regard/see/think of/view/rate/dismiss A as B 	把 A 看作 B
+considerA (as)B 	把A 看作B
+carryon 			实施
+take action (to) do 采取行动
+take measures/steps to do 			采取措施做...
+take aim at 		瞄准目标于...;把矛头指向...
+apart from 			除...之外
+(a) string of 		一连串
+a quarter of 		四分之一;25%
+a round of 			一轮;一场;一连串
+a couple of 		一对，一双
+adjust to 			适应
+access to 			接近，靠近，进入
+apply to 			应用到...
+apply for 申请
+associate A with B  联系A和 B
+at least 			至少
+as well as 			也，和...一样
+ask for 			请求，要求
+ask/require sb. to do 		要求某人做某事
+account for 		解释，说明;占据(比例)
+count for 			占据比例
+be prone to 		易于...;有...的倾向
+be likely to 		有可能
+be inclined to 		倾向于...有意...
+be based on 		以...为基础
+be beneficial to 	对...有益
+be exposed do 		接触，曝光于...
+be equal/equivalent to 		与...相等
+be eager to 		迫切想做...
+be determined to do 	决定，下定决心做
+resolve to do 		下定决心做...				resolve sth 解决某事
+as a result 		因此
+as if/though  		好似，犹如 
+arm with 			用...武装
+after all 			毕竟，终究
+at the expense/price of 		以...为代价
+at odds with 		与...不和，与...意见不一致
+be reluctant to do sth. 	不情愿做...
+be ignorant of/that 不知道，不了解
+be meant to do sth. 打算做...;有意做...
+be capable of 		有能力做...
+A be different from B    	A 不同于 B
+be out/about to do sth.;be to do sth   计划打算做...
+be based on/upon 	以...为基础;基于...
+be occupied with 	被...占据
+be susceptible to 	易受...的影响;对...很敏感
+be determined to do sth. 	下定决心做...
+be willing to do 	乐意做...
+bring about 		导致，引起
+be full of ; be filled up with 		充满
+beef up 			提升，提高
+A be corresponded / identified with B 		A 与 B 一致
+A be subject to B  	A 易受 B 的影响;A 服从于 B;A 遭受 B
+pack/load A with B; A be packed/loaded with B 		用B装满 A
+be accountable/responsible/liable for 				对...负责任
+61,take responsibility for 			对...负责任
+be skillful at 		在...方面熟练
+belong to/with 		属于
+by this means 		通过这种方式
+be bound to do sth. 	必然会...;一定会...
+a be correlated with B  	A 与B 相关
+well / better off 	富裕的;家境好的
+be eligible for 	有资格做...，能胜任...
+be supposed to 		应该做...;被期望做某事
+be aware of 		意识到...
+be obsessed with 	着迷于...;非常喜欢
+be absorbed in 		接受;沉迷，全神贯注于...
+be addicted to 		对(不良嗜好)上瘾
+be good at 			擅长于...
+be out of date 		过时的
+by no means/account 	决不
+catch up 			追赶上;处罚;逮捕
+cope / deal with 	应对，处理
+compete with/against 	与...竞争/比赛
+come into one’s own 	开始流行
+lead the charge/way/field;take the lead   打头阵，带头
+in charge(of)  		主管，负责...
+on the charge of 	因/以...罪名
+be charged with 	承担...
+be divided into 	被分割为...
+compare A to/with B 	比较 A 和B
+clamp  down 		施压，强行压制
+contribute to 		贡献;导致
+cater to/for 		迎合，奉承
+count on = depend on/upon = rely on = rest on  依赖于;取决于
+come up with  		提出，想出
+call for 			要求，提倡，呼吁
+comply with 		遵守
+drop out  			辍学
+devote/dedicate sb to sth ; sb be devoted/dedicated to sth  某人投身于...;某人致力于...
+derive from = arise from = stem from = come from  来源于
+differentiate A from B  区分 A 和B
+draw attention to  	吸引注意力到...
+deal/cope with  	处理解决
+deprive sb of sth  	剥夺某人某物
+101,engage in 		从事，参与
+engage with  		与...交战;与...接洽
+end up with  		以...告终
+eat one’s words  	食言
+fail to do sth   	没能做...
+focus on   			聚焦于...;关注
+from the outset  	从一开始
+fit with 			符合，满足
+for good  			永久地
+fight against  		对抗
+work/figure out 	找出，算出;解决
+get rid of  		摆脱
+given all this  	总之，鉴于所有这一切
+give in  			让步，退让
+make concession/compromise  	妥协，让步
+glare at  			怒视
+have an impact on 	对...有影响
+have sth. / nothing to do with 	与....有关 / 无关
+have trouble (in) doing  在....方面有困难
+hand out 			分发;把...拿出来
+in return (for) 	作为回报，反过来
+instead of 			而不是
+in fact/practice/effect 	事实上，实际上
+in essence 			本质上讲
+insist on(思想) = persist in(行为) 	坚持
+in one’s prime 		在某人的鼎盛时期
+in many respects  	从各方面而言
+in advance  		提前
+in other words = put another way  换而言之
+in short 			简而言之，总之
+in large part 		从很大程度上而言
+in part 			在某种程度上;部分地
+in general 			大体上
+in the short / long term  在短期内 / 在长期内
+in particular 		尤其是
+in consequence 		因此，结果是 =consequently (完形填空) 
+in conclusion 		结论是
+in response to  	回应
+in addition 		此外，另外
+in the pursuit of 	追求，追寻
+in combination/conjunction with 以及
+in effect = in fact 事实上
+in particular 		尤其，特别
+by/in contrast 		相比之下
+contrary to... 		与...相反
+on the contrary 	相反
+impose...on... 		把...施加在...上
+keep one’s word 	信守诺言
+keep an eye on 		监督，监管
+keep in mind 		牢记
+lead to 			导致
+result in 			导致
+contribute to 		导致...;有利于
+Be limited/confined to 		仅限于...
+look up 			向上看;查阅
+look forward to 	期待，期盼
+live off 			以...为生 
+make it 			取得成功
+make clear  		弄清
+make up (for) 		弥补;编造
+marvel at 			对...表示惊讶
+make sense 			起作用，有意义 
+make efforts to do sth. 努力做...
+make the most of 	充分利用
+on average 			平均而言
+owe / ascribe / attribute A to B 把A 归因于 B 
+on behalf of 		代表...;为了...的利益
+oblige sb. to do sth. 使某人有义务做...;强迫某人做...
+pay attention to  	关注
+a period of ...  	一段...时期
+press on  			向前推进;强加于...
+press forward on  	奋力前行;迫切要求
+put on hold  		搁置，延期
+play a role in  	扮演角色;起作用
+part with  			舍弃
+pass down 			传下来
+party with 			与...为伍
+pick up 			捡起;学会;营救
+peer into 			凝视，窥视
+pile into 			扎堆进入
+provide A with B 	给A 提供 B
+rather than  		没有，而不是
+reflect on  		仔细回想
+rise above  		上升到...之上;克服
+rule out  			排除，取消，阻止
+be/run parallel to  与...平行/并驾齐驱
+run counter to   	与...相矛盾;与...背道而驰
+sense of + 表情感的名词 		...感
+serve as 			起作用;充当角色
+sign up 			签约参加，签约使用
+show up 			出现
+suffer from 		遭受
+subscribe to 		赞同;订阅
+separate...from... 	区分，区别
+sort out 			挑选出，分类出，整理出
+a body/host/heap/pile of 	大量
+save to 			除了...
+scale back / down 	缩减规模
+stay off 			远离
+soak up 			吸收
+set an example for 	为...树立榜样
+be subject to 		遭受;经历
+side with 			支持...;站到...的一边
+set aside   		留出(时间);不顾
+set off   			出发 
+shrug off  			摆脱，抖掉，不予理睬
+shed light on 		阐明;使...清晰显现;为...提供线索
+take sth. seriously 认真严肃对待...
+take initiative 	采取主动权
+take care of 		照顾，关心
+to some extent 		从某种程度上而言
+tease out 			梳理
+take a page from 	向...学习
+take control of 	控制，掌控
+take the lead 		领先
+take steps / measures / actions 采取措施
+take sth. into    account/consideration  把...考虑在内
+trade A for B   	以A 换得 B
+take place 			发生
+take part (in); participate in;  参与，参加
+take up  			占据(时间，空间等)
+take sth. for granted  认为...是理所当然的
+too ... to ...    	太...以至于不能做...
+work through  		解决，处理，加工
+war with    		与...交战;与...斗争
+well/better off 	情况很好;繁荣富强
+bad/worse off    	情况不好;身体很差
+wear off   			磨损;逐渐消逝
+a sum of   			一笔(货币)
+a suit of  			一套...
+a series of  		一系列...
+in some cases  		在某些情况下
+at present   		目前
+show off  			炫耀
+be involved in  	涉及... 参与到...
+be concerned with  	关注;担忧
+for a while 		暂时，一会儿
+stay away from 		远离
+file for 			提出...申请
+crop up 			突然出现
+ward off 			阻挡，击退(危险/疾病)
+log in 				注册，登录
+in vain 			徒劳，无效
+regardless of 		不管....
+ 
+
+
+
+
+     
+
+
+
+      
+ 
+
+
